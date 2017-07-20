@@ -1,0 +1,118 @@
+# HG changeset patch
+# User Dominic Farolino <domfarolino@gmail.com>
+Basic time-keeping
+
+
+diff --git a/gfx/layers/client/ClientLayerManager.cpp b/gfx/layers/client/ClientLayerManager.cpp
+index 8a18e32..ddaff67 100644
+--- a/gfx/layers/client/ClientLayerManager.cpp
++++ b/gfx/layers/client/ClientLayerManager.cpp
+@@ -222,17 +222,23 @@ ClientLayerManager::CreateReadbackLayer()
+   RefPtr<ReadbackLayer> layer = new ClientReadbackLayer(this);
+   return layer.forget();
+ }
+ 
+ bool
+ ClientLayerManager::BeginTransactionWithTarget(gfxContext* aTarget)
+ {
+   // Wait for any previous async paints to complete before starting to paint again.
++  mozilla::TimeStamp mFlushAsyncPaintTime = TimeStamp::Now();
+   GetCompositorBridgeChild()->FlushAsyncPaints();
++  // Only if we're in the content process do we want to view
++  // the time it takes to flush paints
++  if (XRE_IsContentProcess()) {
++    printf("FlushAsyncPaintOMTP:%f\n", (TimeStamp::Now() - mFlushAsyncPaintTime).ToMilliseconds());
++  }
+ 
+   MOZ_ASSERT(mForwarder, "ClientLayerManager::BeginTransaction without forwarder");
+   if (!mForwarder->IPCOpen()) {
+     gfxCriticalNote << "ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.";
+     return false;
+   }
+ 
+   if (XRE_IsContentProcess() &&
+@@ -369,17 +375,24 @@ ClientLayerManager::EndTransactionInternal(DrawPaintedLayerCallback aCallback,
+ 
+   // Skip the painting if the device is in device-reset status.
+   if (!gfxPlatform::GetPlatform()->DidRenderingDeviceReset()) {
+     if (gfxPrefs::AlwaysPaint() && XRE_IsContentProcess()) {
+       TimeStamp start = TimeStamp::Now();
+       root->RenderLayer();
+       mLastPaintTime = TimeStamp::Now() - start;
+     } else {
++      mozilla::TimeStamp mRenderLayerStartTime = TimeStamp::Now();
+       root->RenderLayer();
++      printf("----End of frame!OMTP\n");
++      if (XRE_IsContentProcess()) {
++        // Only if we're in the content process do we want to view
++        // how long it takes to render layers
++        printf("RenderLayerOMTP:%f\n", (TimeStamp::Now() - mRenderLayerStartTime).ToMilliseconds());
++      }
+     }
+   } else {
+     gfxCriticalNote << "LayerManager::EndTransaction skip RenderLayer().";
+   }
+ 
+   if (!mRepeatTransaction && !GetRoot()->GetInvalidRegion().IsEmpty()) {
+     GetRoot()->Mutated();
+   }
+diff --git a/gfx/layers/client/ClientPaintedLayer.cpp b/gfx/layers/client/ClientPaintedLayer.cpp
+index 7d3cdce..b75ceab 100644
+--- a/gfx/layers/client/ClientPaintedLayer.cpp
++++ b/gfx/layers/client/ClientPaintedLayer.cpp
+@@ -201,23 +201,27 @@ ClientPaintedLayer::PaintThebes(nsTArray<ReadbackProcessor::Update>* aReadbackUp
+       continue;
+     }
+ 
+     SetAntialiasingFlags(this, target);
+ 
+     RefPtr<gfxContext> ctx = gfxContext::CreatePreservingTransformOrNull(target);
+     MOZ_ASSERT(ctx); // already checked the target above
+ 
++    mozilla::TimeStamp callbackTimeStart = TimeStamp::Now();
+     ClientManager()->GetPaintedLayerCallback()(this,
+                                               ctx,
+                                               iter.mDrawRegion,
+                                               iter.mDrawRegion,
+                                               state.mClip,
+                                               state.mRegionToInvalidate,
+                                               ClientManager()->GetPaintedLayerCallbackData());
++    if (XRE_IsContentProcess()) {
++      printf("PaintedLayerCallback - Thebes - OMTP:%f\n", (TimeStamp::Now() - callbackTimeStart).ToMilliseconds());
++    }
+ 
+     ctx = nullptr;
+     mContentClient->ReturnDrawTargetToBuffer(target);
+     didUpdate = true;
+   }
+ 
+   mContentClient->EndPaint(aReadbackUpdates);
+ 
+@@ -266,23 +270,27 @@ ClientPaintedLayer::CapturePaintedContent()
+   // We don't clear the rect here like WRPaintedBlobLayers do
+   // because ContentClient already clears the surface for us during BeginPaint.
+   RefPtr<DrawTargetCapture> captureDT = refDT->CreateCaptureDT(imageSize);
+   captureDT->SetTransform(Matrix().PreTranslate(-bounds.x, -bounds.y));
+ 
+   RefPtr<gfxContext> ctx = gfxContext::CreatePreservingTransformOrNull(captureDT);
+   MOZ_ASSERT(ctx); // already checked the target above
+ 
++  mozilla::TimeStamp callbackTimeStamp = TimeStamp::Now();
+   ClientManager()->GetPaintedLayerCallback()(this,
+                                              ctx,
+                                              visibleRegion.ToUnknownRegion(),
+                                              visibleRegion.ToUnknownRegion(),
+                                              DrawRegionClip::DRAW,
+                                              nsIntRegion(),
+                                              ClientManager()->GetPaintedLayerCallbackData());
++  if (XRE_IsContentProcess()) {
++    printf("PaintedLayerCallback - Capture - OMTP:%f\n", (TimeStamp::Now() - callbackTimeStamp).ToMilliseconds());
++  }
+ 
+   return captureDT.forget();
+ }
+ 
+ void
+ ClientPaintedLayer::RenderLayerWithReadback(ReadbackProcessor *aReadback)
+ {
+   RenderMaskLayers(this);
