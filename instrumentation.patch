@@ -1,10 +1,10 @@
 # HG changeset patch
 # User Dominic Farolino <domfarolino@gmail.com>
-Basic time-keeping
+OMTP Timekeeping instrumentation
 
 
 diff --git a/gfx/layers/client/ClientLayerManager.cpp b/gfx/layers/client/ClientLayerManager.cpp
-index 8a18e32..ddaff67 100644
+index b8fb9f8..714d8e9 100644
 --- a/gfx/layers/client/ClientLayerManager.cpp
 +++ b/gfx/layers/client/ClientLayerManager.cpp
 @@ -222,17 +222,23 @@ ClientLayerManager::CreateReadbackLayer()
@@ -57,10 +57,10 @@ index 8a18e32..ddaff67 100644
      GetRoot()->Mutated();
    }
 diff --git a/gfx/layers/client/ClientPaintedLayer.cpp b/gfx/layers/client/ClientPaintedLayer.cpp
-index 7d3cdce..b75ceab 100644
+index b4a1f56..e00437c 100644
 --- a/gfx/layers/client/ClientPaintedLayer.cpp
 +++ b/gfx/layers/client/ClientPaintedLayer.cpp
-@@ -201,23 +201,27 @@ ClientPaintedLayer::PaintThebes(nsTArray<ReadbackProcessor::Update>* aReadbackUp
+@@ -157,23 +157,27 @@ ClientPaintedLayer::PaintThebes(nsTArray<ReadbackProcessor::Update>* aReadbackUp
        continue;
      }
  
@@ -88,31 +88,43 @@ index 7d3cdce..b75ceab 100644
  
    mContentClient->EndPaint(aReadbackUpdates);
  
-@@ -266,23 +270,27 @@ ClientPaintedLayer::CapturePaintedContent()
-   // We don't clear the rect here like WRPaintedBlobLayers do
-   // because ContentClient already clears the surface for us during BeginPaint.
-   RefPtr<DrawTargetCapture> captureDT = refDT->CreateCaptureDT(imageSize);
-   captureDT->SetTransform(Matrix().PreTranslate(-bounds.x, -bounds.y));
+@@ -215,34 +219,38 @@ ClientPaintedLayer::PaintOffMainThread()
  
-   RefPtr<gfxContext> ctx = gfxContext::CreatePreservingTransformOrNull(captureDT);
-   MOZ_ASSERT(ctx); // already checked the target above
+     SetAntialiasingFlags(this, refDT);
+     SetAntialiasingFlags(this, captureDT);
+     SetAntialiasingFlags(this, target);
  
-+  mozilla::TimeStamp callbackTimeStamp = TimeStamp::Now();
-   ClientManager()->GetPaintedLayerCallback()(this,
-                                              ctx,
-                                              visibleRegion.ToUnknownRegion(),
-                                              visibleRegion.ToUnknownRegion(),
-                                              DrawRegionClip::DRAW,
-                                              nsIntRegion(),
-                                              ClientManager()->GetPaintedLayerCallbackData());
-+  if (XRE_IsContentProcess()) {
-+    printf("PaintedLayerCallback - Capture - OMTP:%f\n", (TimeStamp::Now() - callbackTimeStamp).ToMilliseconds());
-+  }
+     RefPtr<gfxContext> ctx = gfxContext::CreatePreservingTransformOrNull(captureDT);
+     MOZ_ASSERT(ctx); // already checked the target above
  
-   return captureDT.forget();
++    mozilla::TimeStamp callbackTimeStamp = TimeStamp::Now();
+     ClientManager()->GetPaintedLayerCallback()(this,
+                                               ctx,
+                                               iter.mDrawRegion,
+                                               iter.mDrawRegion,
+                                               state.mClip,
+                                               state.mRegionToInvalidate,
+                                               ClientManager()->GetPaintedLayerCallbackData());
++    if (XRE_IsContentProcess()) {
++      printf("PaintedLayerCallback - Capture - OMTP:%f\n", (TimeStamp::Now() - callbackTimeStamp).ToMilliseconds());
++    }
+ 
+     ctx = nullptr;
+ 
+     PaintThread::Get()->PaintContents(captureDT, target);
+ 
+     mContentClient->ReturnDrawTargetToBuffer(target);
+     didUpdate = true;
+   }
+ 
+   mContentClient->EndPaint(nullptr);
+-
++  
+   if (didUpdate) {
+     UpdateContentClient(state);
+   }
+   return true;
  }
  
  void
  ClientPaintedLayer::RenderLayerWithReadback(ReadbackProcessor *aReadback)
- {
-   RenderMaskLayers(this);
