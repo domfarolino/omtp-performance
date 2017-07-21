@@ -4,7 +4,7 @@ OMTP Timekeeping instrumentation
 
 
 diff --git a/gfx/layers/client/ClientLayerManager.cpp b/gfx/layers/client/ClientLayerManager.cpp
-index b8fb9f8..714d8e9 100644
+index b8fb9f8..f7e6001 100644
 --- a/gfx/layers/client/ClientLayerManager.cpp
 +++ b/gfx/layers/client/ClientLayerManager.cpp
 @@ -222,17 +222,23 @@ ClientLayerManager::CreateReadbackLayer()
@@ -42,8 +42,8 @@ index b8fb9f8..714d8e9 100644
      } else {
 +      mozilla::TimeStamp mRenderLayerStartTime = TimeStamp::Now();
        root->RenderLayer();
-+      printf("----End of frame!OMTP\n");
 +      if (XRE_IsContentProcess()) {
++        printf("----End of frame!OMTP\n");
 +        // Only if we're in the content process do we want to view
 +        // how long it takes to render layers
 +        printf("RenderLayerOMTP:%f\n", (TimeStamp::Now() - mRenderLayerStartTime).ToMilliseconds());
