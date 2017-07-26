@@ -4,7 +4,7 @@ OMTP Timekeeping instrumentation
 
 
 diff --git a/gfx/layers/client/ClientLayerManager.cpp b/gfx/layers/client/ClientLayerManager.cpp
-index b8fb9f8..f7e6001 100644
+index 531867d..31d64a7 100644
 --- a/gfx/layers/client/ClientLayerManager.cpp
 +++ b/gfx/layers/client/ClientLayerManager.cpp
 @@ -222,17 +222,23 @@ ClientLayerManager::CreateReadbackLayer()
