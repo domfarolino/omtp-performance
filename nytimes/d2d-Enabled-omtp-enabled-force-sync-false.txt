@@ -1,0 +1,4617 @@
+FlushAsyncPaintOMTP:0.002887
+----End of frame!OMTP
+RenderLayerOMTP:0.284373
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:32.243878
+----End of frame!OMTP
+RenderLayerOMTP:35.054890
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:3.042456
+----End of frame!OMTP
+RenderLayerOMTP:34.761855
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:6.726797
+----End of frame!OMTP
+RenderLayerOMTP:9.005151
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.514374
+----End of frame!OMTP
+RenderLayerOMTP:5.971356
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.804521
+----End of frame!OMTP
+RenderLayerOMTP:1.781302
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:26.178693
+----End of frame!OMTP
+RenderLayerOMTP:38.658394
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.667387
+----End of frame!OMTP
+RenderLayerOMTP:2.458794
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.089375
+PaintedLayerCallback - Capture - OMTP:0.654876
+----End of frame!OMTP
+RenderLayerOMTP:11.586162
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.319499
+PaintedLayerCallback - Capture - OMTP:5.248153
+----End of frame!OMTP
+RenderLayerOMTP:12.764555
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.600504
+----End of frame!OMTP
+RenderLayerOMTP:4.011057
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.996990
+----End of frame!OMTP
+RenderLayerOMTP:2.549254
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.939731
+----End of frame!OMTP
+RenderLayerOMTP:1.990612
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.191507
+----End of frame!OMTP
+RenderLayerOMTP:8.032219
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.413328
+----End of frame!OMTP
+RenderLayerOMTP:2.082035
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.172741
+----End of frame!OMTP
+RenderLayerOMTP:2.631535
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.143871
+----End of frame!OMTP
+RenderLayerOMTP:1.349690
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.464332
+----End of frame!OMTP
+RenderLayerOMTP:2.487183
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.142908
+----End of frame!OMTP
+RenderLayerOMTP:2.126303
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.296403
+----End of frame!OMTP
+RenderLayerOMTP:1.673519
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.161674
+----End of frame!OMTP
+RenderLayerOMTP:1.940089
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.152532
+----End of frame!OMTP
+RenderLayerOMTP:1.746176
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.444604
+----End of frame!OMTP
+RenderLayerOMTP:2.861054
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.163118
+----End of frame!OMTP
+RenderLayerOMTP:3.201725
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.545169
+----End of frame!OMTP
+RenderLayerOMTP:4.125577
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.123661
+----End of frame!OMTP
+RenderLayerOMTP:3.660282
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.153975
+----End of frame!OMTP
+RenderLayerOMTP:1.652348
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.449415
+----End of frame!OMTP
+RenderLayerOMTP:2.798020
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.116925
+----End of frame!OMTP
+RenderLayerOMTP:1.705758
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.407072
+----End of frame!OMTP
+RenderLayerOMTP:1.894859
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.122699
+----End of frame!OMTP
+RenderLayerOMTP:1.997830
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.110189
+----End of frame!OMTP
+RenderLayerOMTP:1.170213
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.255984
+----End of frame!OMTP
+RenderLayerOMTP:1.811135
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.128473
+----End of frame!OMTP
+RenderLayerOMTP:2.068081
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.146277
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.264164
+----End of frame!OMTP
+RenderLayerOMTP:1.571030
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.122218
+----End of frame!OMTP
+RenderLayerOMTP:1.962704
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:3.614571
+----End of frame!OMTP
+RenderLayerOMTP:5.132190
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.627931
+----End of frame!OMTP
+RenderLayerOMTP:3.571265
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.603872
+----End of frame!OMTP
+RenderLayerOMTP:1.507515
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.452784
+----End of frame!OMTP
+RenderLayerOMTP:2.520865
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.436905
+----End of frame!OMTP
+RenderLayerOMTP:2.524714
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.603391
+----End of frame!OMTP
+RenderLayerOMTP:2.898586
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.442679
+----End of frame!OMTP
+RenderLayerOMTP:2.849025
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.477324
+----End of frame!OMTP
+RenderLayerOMTP:2.466973
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.122218
+----End of frame!OMTP
+RenderLayerOMTP:3.604947
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.084205
+----End of frame!OMTP
+RenderLayerOMTP:0.922408
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.083724
+----End of frame!OMTP
+RenderLayerOMTP:1.166844
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.085168
+----End of frame!OMTP
+RenderLayerOMTP:1.187535
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.081799
+----End of frame!OMTP
+RenderLayerOMTP:1.105735
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.154938
+----End of frame!OMTP
+RenderLayerOMTP:2.274023
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.151088
+----End of frame!OMTP
+RenderLayerOMTP:1.773603
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.150607
+----End of frame!OMTP
+RenderLayerOMTP:1.781783
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.153494
+----End of frame!OMTP
+RenderLayerOMTP:1.781783
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.152532
+----End of frame!OMTP
+RenderLayerOMTP:1.850591
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.151088
+----End of frame!OMTP
+RenderLayerOMTP:1.757243
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.152532
+----End of frame!OMTP
+RenderLayerOMTP:2.144588
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.100084
+----End of frame!OMTP
+RenderLayerOMTP:1.337661
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.105858
+----End of frame!OMTP
+RenderLayerOMTP:1.286656
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.092385
+----End of frame!OMTP
+RenderLayerOMTP:1.227472
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.337302
+----End of frame!OMTP
+RenderLayerOMTP:2.312517
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:4.301205
+----End of frame!OMTP
+RenderLayerOMTP:5.910247
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.505713
+----End of frame!OMTP
+RenderLayerOMTP:3.922522
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.460482
+----End of frame!OMTP
+RenderLayerOMTP:1.247681
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.622638
+----End of frame!OMTP
+RenderLayerOMTP:3.177666
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.466257
+----End of frame!OMTP
+RenderLayerOMTP:2.721033
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.651989
+----End of frame!OMTP
+RenderLayerOMTP:3.140616
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.620232
+----End of frame!OMTP
+RenderLayerOMTP:3.072770
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.453265
+----End of frame!OMTP
+RenderLayerOMTP:2.573313
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.069647
+PaintedLayerCallback - Capture - OMTP:0.434499
+PaintedLayerCallback - Capture - OMTP:0.761216
+PaintedLayerCallback - Capture - OMTP:8.159730
+----End of frame!OMTP
+RenderLayerOMTP:18.105093
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.124143
+----End of frame!OMTP
+RenderLayerOMTP:6.300478
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.290628
+PaintedLayerCallback - Capture - OMTP:0.536508
+PaintedLayerCallback - Capture - OMTP:0.414771
+----End of frame!OMTP
+RenderLayerOMTP:48.110073
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.327679
+PaintedLayerCallback - Capture - OMTP:5.312149
+PaintedLayerCallback - Capture - OMTP:12.800162
+----End of frame!OMTP
+RenderLayerOMTP:22.243661
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:11.005387
+----End of frame!OMTP
+RenderLayerOMTP:37.421779
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:14.045437
+----End of frame!OMTP
+RenderLayerOMTP:18.456349
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:61.323081
+PaintedLayerCallback - Capture - OMTP:1.471908
+----End of frame!OMTP
+RenderLayerOMTP:70.193023
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.286779
+PaintedLayerCallback - Capture - OMTP:1.667745
+----End of frame!OMTP
+RenderLayerOMTP:6.192695
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.734628
+PaintedLayerCallback - Capture - OMTP:1.793813
+----End of frame!OMTP
+RenderLayerOMTP:18.549216
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.265607
+PaintedLayerCallback - Capture - OMTP:3.153126
+----End of frame!OMTP
+RenderLayerOMTP:8.334877
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.231925
+----End of frame!OMTP
+RenderLayerOMTP:6.124850
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.706362
+PaintedLayerCallback - Capture - OMTP:0.262720
+PaintedLayerCallback - Capture - OMTP:3.622751
+PaintedLayerCallback - Capture - OMTP:4.725599
+----End of frame!OMTP
+RenderLayerOMTP:32.266012
+FlushAsyncPaintOMTP:13.694181
+PaintedLayerCallback - Capture - OMTP:0.624562
+----End of frame!OMTP
+RenderLayerOMTP:11.275325
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:3.573671
+----End of frame!OMTP
+RenderLayerOMTP:6.381796
+FlushAsyncPaintOMTP:3.574152
+PaintedLayerCallback - Capture - OMTP:0.603872
+----End of frame!OMTP
+RenderLayerOMTP:5.104282
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.197281
+----End of frame!OMTP
+RenderLayerOMTP:1.984357
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:3.109339
+----End of frame!OMTP
+RenderLayerOMTP:9.828919
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.214480
+----End of frame!OMTP
+RenderLayerOMTP:7.993244
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.268494
+----End of frame!OMTP
+RenderLayerOMTP:20.419053
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.271863
+PaintedLayerCallback - Capture - OMTP:1.915549
+----End of frame!OMTP
+RenderLayerOMTP:19.135284
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.258871
+----End of frame!OMTP
+RenderLayerOMTP:5.960770
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.191507
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.594730
+PaintedLayerCallback - Capture - OMTP:2.707079
+----End of frame!OMTP
+RenderLayerOMTP:21.010415
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.295921
+PaintedLayerCallback - Capture - OMTP:5.586899
+----End of frame!OMTP
+RenderLayerOMTP:24.633647
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.373871
+----End of frame!OMTP
+RenderLayerOMTP:3.948505
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.276193
+PaintedLayerCallback - Capture - OMTP:1.687473
+----End of frame!OMTP
+RenderLayerOMTP:18.756120
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.349813
+----End of frame!OMTP
+RenderLayerOMTP:4.103443
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.333453
+----End of frame!OMTP
+RenderLayerOMTP:17.204337
+FlushAsyncPaintOMTP:0.366173
+PaintedLayerCallback - Capture - OMTP:0.320942
+----End of frame!OMTP
+RenderLayerOMTP:15.757450
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.181402
+----End of frame!OMTP
+RenderLayerOMTP:1.247200
+FlushAsyncPaintOMTP:0.421026
+PaintedLayerCallback - Capture - OMTP:0.286298
+----End of frame!OMTP
+RenderLayerOMTP:19.756478
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.200168
+----End of frame!OMTP
+RenderLayerOMTP:1.574879
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.276674
+----End of frame!OMTP
+RenderLayerOMTP:18.257144
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.198243
+----End of frame!OMTP
+RenderLayerOMTP:1.430046
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.285817
+PaintedLayerCallback - Capture - OMTP:0.185252
+----End of frame!OMTP
+RenderLayerOMTP:29.541611
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.206904
+PaintedLayerCallback - Capture - OMTP:0.114038
+----End of frame!OMTP
+RenderLayerOMTP:3.796454
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.386863
+----End of frame!OMTP
+RenderLayerOMTP:10.106556
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.188620
+----End of frame!OMTP
+RenderLayerOMTP:1.437745
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.195356
+----End of frame!OMTP
+RenderLayerOMTP:1.404544
+FlushAsyncPaintOMTP:0.521591
+PaintedLayerCallback - Capture - OMTP:0.368097
+----End of frame!OMTP
+RenderLayerOMTP:19.723759
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.183327
+PaintedLayerCallback - Capture - OMTP:0.366173
+----End of frame!OMTP
+RenderLayerOMTP:3.165637
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.178515
+PaintedLayerCallback - Capture - OMTP:0.091904
+PaintedLayerCallback - Capture - OMTP:24.902141
+----End of frame!OMTP
+RenderLayerOMTP:29.246652
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.197281
+----End of frame!OMTP
+RenderLayerOMTP:2.201847
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.384938
+PaintedLayerCallback - Capture - OMTP:4.994094
+PaintedLayerCallback - Capture - OMTP:13.711503
+PaintedLayerCallback - Capture - OMTP:0.255984
+----End of frame!OMTP
+RenderLayerOMTP:36.085081
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.303139
+PaintedLayerCallback - Capture - OMTP:0.168892
+PaintedLayerCallback - Capture - OMTP:3.164674
+----End of frame!OMTP
+RenderLayerOMTP:10.764319
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.482135
+PaintedLayerCallback - Capture - OMTP:0.208829
+----End of frame!OMTP
+RenderLayerOMTP:2.915908
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.323829
+PaintedLayerCallback - Capture - OMTP:0.346926
+PaintedLayerCallback - Capture - OMTP:17.362162
+----End of frame!OMTP
+RenderLayerOMTP:39.780970
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.290147
+PaintedLayerCallback - Capture - OMTP:0.184770
+----End of frame!OMTP
+RenderLayerOMTP:2.046428
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.203536
+PaintedLayerCallback - Capture - OMTP:0.300733
+PaintedLayerCallback - Capture - OMTP:0.568746
+----End of frame!OMTP
+RenderLayerOMTP:18.497730
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.527847
+PaintedLayerCallback - Capture - OMTP:0.731864
+----End of frame!OMTP
+RenderLayerOMTP:6.203762
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.242992
+PaintedLayerCallback - Capture - OMTP:0.322386
+----End of frame!OMTP
+RenderLayerOMTP:16.128916
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.192469
+----End of frame!OMTP
+RenderLayerOMTP:1.307828
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.201611
+PaintedLayerCallback - Capture - OMTP:0.126548
+----End of frame!OMTP
+RenderLayerOMTP:1.663896
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.268494
+PaintedLayerCallback - Capture - OMTP:0.176590
+----End of frame!OMTP
+RenderLayerOMTP:3.056410
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.287741
+PaintedLayerCallback - Capture - OMTP:15.069854
+PaintedLayerCallback - Capture - OMTP:27.958552
+----End of frame!OMTP
+RenderLayerOMTP:50.430289
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.324792
+PaintedLayerCallback - Capture - OMTP:21.228867
+----End of frame!OMTP
+RenderLayerOMTP:26.641100
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.304582
+PaintedLayerCallback - Capture - OMTP:0.753517
+PaintedLayerCallback - Capture - OMTP:0.345001
+----End of frame!OMTP
+RenderLayerOMTP:20.335811
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.232888
+PaintedLayerCallback - Capture - OMTP:0.283411
+----End of frame!OMTP
+RenderLayerOMTP:2.930343
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:21.181713
+----End of frame!OMTP
+RenderLayerOMTP:22.656508
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.082639
+----End of frame!OMTP
+RenderLayerOMTP:5.413195
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:18.191223
+----End of frame!OMTP
+RenderLayerOMTP:22.069958
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:16.689963
+PaintedLayerCallback - Capture - OMTP:12.968572
+----End of frame!OMTP
+RenderLayerOMTP:33.544007
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.354143
+PaintedLayerCallback - Capture - OMTP:0.224227
+----End of frame!OMTP
+RenderLayerOMTP:2.677246
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.337783
+PaintedLayerCallback - Capture - OMTP:0.415252
+PaintedLayerCallback - Capture - OMTP:1.198602
+----End of frame!OMTP
+RenderLayerOMTP:19.600097
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.444604
+PaintedLayerCallback - Capture - OMTP:0.285817
+----End of frame!OMTP
+RenderLayerOMTP:3.972082
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.295921
+PaintedLayerCallback - Capture - OMTP:2.221575
+PaintedLayerCallback - Capture - OMTP:3.558755
+----End of frame!OMTP
+RenderLayerOMTP:9.073478
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.166486
+----End of frame!OMTP
+RenderLayerOMTP:1.492117
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.241068
+PaintedLayerCallback - Capture - OMTP:0.190544
+----End of frame!OMTP
+RenderLayerOMTP:1.947307
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.128832
+PaintedLayerCallback - Capture - OMTP:0.713579
+----End of frame!OMTP
+RenderLayerOMTP:7.448075
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.419102
+----End of frame!OMTP
+RenderLayerOMTP:1.689879
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:32.786160
+PaintedLayerCallback - Capture - OMTP:1.137493
+----End of frame!OMTP
+RenderLayerOMTP:38.668980
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.267051
+PaintedLayerCallback - Capture - OMTP:18.290345
+PaintedLayerCallback - Capture - OMTP:1.260192
+PaintedLayerCallback - Capture - OMTP:0.701069
+PaintedLayerCallback - Capture - OMTP:0.883433
+PaintedLayerCallback - Capture - OMTP:1.911700
+PaintedLayerCallback - Capture - OMTP:16.768395
+----End of frame!OMTP
+RenderLayerOMTP:54.357141
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.356068
+PaintedLayerCallback - Capture - OMTP:2.788878
+PaintedLayerCallback - Capture - OMTP:0.883915
+----End of frame!OMTP
+RenderLayerOMTP:10.768650
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.279080
+PaintedLayerCallback - Capture - OMTP:1.318414
+PaintedLayerCallback - Capture - OMTP:0.765065
+----End of frame!OMTP
+RenderLayerOMTP:9.578228
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.578851
+----End of frame!OMTP
+RenderLayerOMTP:1.945382
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.047513
+PaintedLayerCallback - Capture - OMTP:0.401779
+----End of frame!OMTP
+RenderLayerOMTP:3.441349
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.174185
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.005170
+----End of frame!OMTP
+RenderLayerOMTP:2.098395
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.101527
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.123180
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.271863
+----End of frame!OMTP
+RenderLayerOMTP:1.427159
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.716466
+----End of frame!OMTP
+RenderLayerOMTP:1.585465
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.349813
+PaintedLayerCallback - Capture - OMTP:0.377721
+----End of frame!OMTP
+RenderLayerOMTP:3.607353
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.292553
+----End of frame!OMTP
+RenderLayerOMTP:1.287138
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.140502
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.192469
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.126067
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.197281
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.129436
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.131841
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.153975
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.129917
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.267532
+PaintedLayerCallback - Capture - OMTP:0.410922
+----End of frame!OMTP
+RenderLayerOMTP:2.867791
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.169373
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.732826
+----End of frame!OMTP
+RenderLayerOMTP:2.752790
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.192950
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:37.742240
+PaintedLayerCallback - Capture - OMTP:2.129671
+----End of frame!OMTP
+RenderLayerOMTP:41.997253
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:22.385126
+----End of frame!OMTP
+RenderLayerOMTP:24.013415
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.645734
+----End of frame!OMTP
+RenderLayerOMTP:1.680256
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.183808
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.410440
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.255022
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.185733
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.228076
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.993141
+----End of frame!OMTP
+RenderLayerOMTP:2.379881
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:4.246351
+----End of frame!OMTP
+RenderLayerOMTP:6.328386
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.383014
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.168892
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.281005
+PaintedLayerCallback - Capture - OMTP:0.286298
+----End of frame!OMTP
+RenderLayerOMTP:3.597730
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.102009
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.139059
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.129917
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.456992
+PaintedLayerCallback - Capture - OMTP:2.180676
+----End of frame!OMTP
+RenderLayerOMTP:5.743280
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.535904
+----End of frame!OMTP
+RenderLayerOMTP:6.527110
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.101046
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.101527
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.101046
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.098159
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.101046
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.151088
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.282930
+PaintedLayerCallback - Capture - OMTP:0.182365
+PaintedLayerCallback - Capture - OMTP:0.032720
+PaintedLayerCallback - Capture - OMTP:15.646299
+PaintedLayerCallback - Capture - OMTP:0.130398
+PaintedLayerCallback - Capture - OMTP:28.823701
+----End of frame!OMTP
+RenderLayerOMTP:69.596849
+FlushAsyncPaintOMTP:32.179882
+----End of frame!OMTP
+RenderLayerOMTP:3.968714
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.166005
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.160712
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.161193
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.166005
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.077827
+----End of frame!OMTP
+RenderLayerOMTP:2.214358
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.425838
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.057260
+PaintedLayerCallback - Capture - OMTP:0.025021
+PaintedLayerCallback - Capture - OMTP:2.683982
+----End of frame!OMTP
+RenderLayerOMTP:14.687803
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.516299
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.031276
+PaintedLayerCallback - Capture - OMTP:0.298327
+PaintedLayerCallback - Capture - OMTP:1.101405
+----End of frame!OMTP
+RenderLayerOMTP:28.613909
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.388307
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.162636
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:2.057495
+PaintedLayerCallback - Capture - OMTP:13.052296
+----End of frame!OMTP
+RenderLayerOMTP:17.025822
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.145795
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.271382
+PaintedLayerCallback - Capture - OMTP:0.707805
+PaintedLayerCallback - Capture - OMTP:1.630214
+PaintedLayerCallback - Capture - OMTP:1.225066
+----End of frame!OMTP
+RenderLayerOMTP:9.847204
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.265126
+PaintedLayerCallback - Capture - OMTP:0.648621
+PaintedLayerCallback - Capture - OMTP:1.728854
+----End of frame!OMTP
+RenderLayerOMTP:10.595909
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.445085
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.189582
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.132804
+----End of frame!OMTP
+RenderLayerOMTP:2.976054
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.101046
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.084205
+----End of frame!OMTP
+RenderLayerOMTP:0.934438
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.102009
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.380127
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.099603
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.100565
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.101046
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.099122
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.096716
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.346444
+----End of frame!OMTP
+RenderLayerOMTP:1.482013
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.158787
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.101046
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.175628
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.148201
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.160231
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.158306
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.102971
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.159749
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.164561
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.100565
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.150607
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.100565
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.136172
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.138097
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.127030
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.803559
+PaintedLayerCallback - Capture - OMTP:0.208829
+PaintedLayerCallback - Capture - OMTP:2.346199
+PaintedLayerCallback - Capture - OMTP:4.586540
+PaintedLayerCallback - Capture - OMTP:2.206178
+PaintedLayerCallback - Capture - OMTP:5.101876
+----End of frame!OMTP
+RenderLayerOMTP:22.991404
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.133766
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.135210
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.131360
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.133766
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.126548
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.131841
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.130879
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.130879
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.133285
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.129917
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.134728
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.898831
+PaintedLayerCallback - Capture - OMTP:0.882471
+PaintedLayerCallback - Capture - OMTP:4.091894
+----End of frame!OMTP
+RenderLayerOMTP:20.899264
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:10.601683
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.467096
+----End of frame!OMTP
+RenderLayerOMTP:14.997678
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:3.228189
+PaintedLayerCallback - Capture - OMTP:4.438820
+----End of frame!OMTP
+RenderLayerOMTP:9.653291
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.904964
+----End of frame!OMTP
+RenderLayerOMTP:6.123406
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.217009
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.131841
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.125586
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.300733
+----End of frame!OMTP
+RenderLayerOMTP:1.607118
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.366173
+----End of frame!OMTP
+RenderLayerOMTP:1.312640
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.132323
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.179959
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.200168
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:2.482371
+----End of frame!OMTP
+RenderLayerOMTP:3.380721
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.136172
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.350294
+PaintedLayerCallback - Capture - OMTP:0.874772
+----End of frame!OMTP
+RenderLayerOMTP:3.193545
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.144352
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.147720
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.097678
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.101527
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.097678
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.096716
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.098159
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.100084
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.213160
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.095272
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.699625
+PaintedLayerCallback - Capture - OMTP:10.172958
+----End of frame!OMTP
+RenderLayerOMTP:16.323310
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.584144
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.505232
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.190544
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.613977
+----End of frame!OMTP
+RenderLayerOMTP:1.754356
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.002764
+----End of frame!OMTP
+RenderLayerOMTP:439.497078
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.853601
+PaintedLayerCallback - Capture - OMTP:2.759045
+----End of frame!OMTP
+RenderLayerOMTP:47.157832
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.135210
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.149164
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.105858
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.920965
+----End of frame!OMTP
+RenderLayerOMTP:4.221811
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.161193
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.103933
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.674123
+----End of frame!OMTP
+RenderLayerOMTP:1.755319
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.480692
+PaintedLayerCallback - Capture - OMTP:1.699022
+PaintedLayerCallback - Capture - OMTP:8.282910
+PaintedLayerCallback - Capture - OMTP:0.152051
+----End of frame!OMTP
+RenderLayerOMTP:16.412327
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.338746
+PaintedLayerCallback - Capture - OMTP:0.227114
+----End of frame!OMTP
+RenderLayerOMTP:3.473106
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.354624
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.145314
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.113076
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.150126
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.971969
+----End of frame!OMTP
+RenderLayerOMTP:7.655461
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.155900
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.268494
+----End of frame!OMTP
+RenderLayerOMTP:1.209188
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.399374
+PaintedLayerCallback - Capture - OMTP:0.197762
+----End of frame!OMTP
+RenderLayerOMTP:2.398647
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.971488
+----End of frame!OMTP
+RenderLayerOMTP:5.060977
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.113076
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.140984
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.907492
+----End of frame!OMTP
+RenderLayerOMTP:4.365682
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.643328
+----End of frame!OMTP
+RenderLayerOMTP:1.797181
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.137615
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.886802
+----End of frame!OMTP
+RenderLayerOMTP:4.484531
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.986886
+----End of frame!OMTP
+RenderLayerOMTP:6.074808
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.139540
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.961865
+----End of frame!OMTP
+RenderLayerOMTP:5.228906
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.994103
+----End of frame!OMTP
+RenderLayerOMTP:6.780689
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.244794
+----End of frame!OMTP
+RenderLayerOMTP:5.967988
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.943580
+----End of frame!OMTP
+RenderLayerOMTP:5.298195
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.972450
+----End of frame!OMTP
+RenderLayerOMTP:5.980017
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.961865
+----End of frame!OMTP
+RenderLayerOMTP:4.889198
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.105858
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.289543
+----End of frame!OMTP
+RenderLayerOMTP:6.073364
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.103933
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.986886
+----End of frame!OMTP
+RenderLayerOMTP:5.572463
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.604712
+----End of frame!OMTP
+RenderLayerOMTP:2.491513
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.102971
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.107783
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.108264
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.113076
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.105377
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.104896
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.107302
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.456029
+----End of frame!OMTP
+RenderLayerOMTP:9.200507
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.108745
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.108745
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.104415
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.107302
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.130398
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.105377
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.106820
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.022492
+----End of frame!OMTP
+RenderLayerOMTP:6.625270
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.042702
+----End of frame!OMTP
+RenderLayerOMTP:5.888594
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.102971
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.106820
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.489711
+----End of frame!OMTP
+RenderLayerOMTP:6.393344
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.162636
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.106339
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.346926
+----End of frame!OMTP
+RenderLayerOMTP:2.459756
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.109707
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.109226
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.446528
+----End of frame!OMTP
+RenderLayerOMTP:1.426196
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.105377
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.231925
+PaintedLayerCallback - Capture - OMTP:1.095150
+PaintedLayerCallback - Capture - OMTP:0.149164
+----End of frame!OMTP
+RenderLayerOMTP:6.768178
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.940212
+----End of frame!OMTP
+RenderLayerOMTP:6.204243
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.147720
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.149645
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.210631
+----End of frame!OMTP
+RenderLayerOMTP:6.697446
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.146277
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.149164
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.149164
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:0.968601
+----End of frame!OMTP
+RenderLayerOMTP:6.365918
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.176109
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.167929
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.447972
+----End of frame!OMTP
+RenderLayerOMTP:2.427517
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.108745
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.412846
+PaintedLayerCallback - Capture - OMTP:1.967035
+----End of frame!OMTP
+RenderLayerOMTP:9.606617
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.414771
+PaintedLayerCallback - Capture - OMTP:3.216160
+PaintedLayerCallback - Capture - OMTP:3.563085
+----End of frame!OMTP
+RenderLayerOMTP:16.337745
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.584625
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:2.117642
+----End of frame!OMTP
+RenderLayerOMTP:2.997707
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.111151
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.182846
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:2.541555
+----End of frame!OMTP
+RenderLayerOMTP:4.375786
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.584144
+PaintedLayerCallback - Capture - OMTP:1.301092
+----End of frame!OMTP
+RenderLayerOMTP:26.655536
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.141946
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.730420
+----End of frame!OMTP
+RenderLayerOMTP:2.118604
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.104896
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.103452
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Capture - OMTP:1.051844
+----End of frame!OMTP
+RenderLayerOMTP:4.696248
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.161193
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.233369
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.146277
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.494165
+PaintedLayerCallback - Capture - OMTP:0.275231
+----End of frame!OMTP
+RenderLayerOMTP:2.960176
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.379645
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.161193
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.106339
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.162155
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.007095
+----End of frame!OMTP
+RenderLayerOMTP:4.690955
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.163118
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.144833
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.433537
+----End of frame!OMTP
+RenderLayerOMTP:1.333330
+FlushAsyncPaintOMTP:0.051486
+----End of frame!OMTP
+RenderLayerOMTP:0.170816
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.163599
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.104896
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.106339
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.102490
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.998434
+----End of frame!OMTP
+RenderLayerOMTP:4.749177
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.136653
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.178392
+----End of frame!OMTP
+RenderLayerOMTP:6.484286
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.155296
+----End of frame!OMTP
+RenderLayerOMTP:4.995056
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.983036
+----End of frame!OMTP
+RenderLayerOMTP:6.148427
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.106339
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.106820
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.105377
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.150126
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.163118
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.604353
+----End of frame!OMTP
+RenderLayerOMTP:1.851553
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.194394
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.279080
+----End of frame!OMTP
+RenderLayerOMTP:1.086970
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.103933
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.980630
+----End of frame!OMTP
+RenderLayerOMTP:4.720787
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.105858
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.107302
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.107302
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.106820
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.124143
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.226151
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.108264
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.105858
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.285817
+----End of frame!OMTP
+RenderLayerOMTP:1.304460
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.952722
+----End of frame!OMTP
+RenderLayerOMTP:4.319489
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.156862
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.159749
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.105858
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.157825
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.947429
+----End of frame!OMTP
+RenderLayerOMTP:5.094659
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.971007
+----End of frame!OMTP
+RenderLayerOMTP:6.062779
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.336821
+----End of frame!OMTP
+RenderLayerOMTP:1.337180
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.884396
+----End of frame!OMTP
+RenderLayerOMTP:4.498967
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.157825
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.985442
+PaintedLayerCallback - Capture - OMTP:2.162391
+----End of frame!OMTP
+RenderLayerOMTP:10.673859
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.815588
+----End of frame!OMTP
+RenderLayerOMTP:2.510760
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:1.046551
+PaintedLayerCallback - Capture - OMTP:0.315649
+PaintedLayerCallback - Capture - OMTP:4.683737
+PaintedLayerCallback - Capture - OMTP:5.453614
+PaintedLayerCallback - Capture - OMTP:14.956779
+----End of frame!OMTP
+RenderLayerOMTP:38.081467
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:2.469379
+----End of frame!OMTP
+RenderLayerOMTP:12.586040
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.674123
+PaintedLayerCallback - Capture - OMTP:2.077705
+PaintedLayerCallback - Capture - OMTP:0.132323
+----End of frame!OMTP
+RenderLayerOMTP:37.952994
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.529290
+----End of frame!OMTP
+RenderLayerOMTP:2.687832
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:20.260748
+----End of frame!OMTP
+RenderLayerOMTP:29.722532
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.575002
+----End of frame!OMTP
+RenderLayerOMTP:31.131887
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:35.639515
+PaintedLayerCallback - Capture - OMTP:5.201479
+----End of frame!OMTP
+RenderLayerOMTP:56.466603
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:4.534573
+----End of frame!OMTP
+RenderLayerOMTP:14.575209
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:11.235387
+PaintedLayerCallback - Capture - OMTP:106.126534
+----End of frame!OMTP
+RenderLayerOMTP:122.867021
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.828099
+----End of frame!OMTP
+RenderLayerOMTP:8.593267
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.198243
+----End of frame!OMTP
+RenderLayerOMTP:5.030182
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.396364
+PaintedLayerCallback - Capture - OMTP:0.410440
+PaintedLayerCallback - Capture - OMTP:5.039324
+PaintedLayerCallback - Capture - OMTP:0.136172
+PaintedLayerCallback - Capture - OMTP:3.820032
+----End of frame!OMTP
+RenderLayerOMTP:27.900330
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.228557
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.370503
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.243473
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.228557
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.337302
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.336340
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.228076
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.333934
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.284373
+----End of frame!OMTP
+RenderLayerOMTP:4.817984
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.586550
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:1.571992
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.368578
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.246842
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:3.326348
+----End of frame!OMTP
+RenderLayerOMTP:5.480559
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.563935
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.492721
+PaintedLayerCallback - Capture - OMTP:3.558274
+PaintedLayerCallback - Capture - OMTP:45.146048
+----End of frame!OMTP
+RenderLayerOMTP:79.098571
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:6.110415
+----End of frame!OMTP
+RenderLayerOMTP:10.220594
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:9.389608
+----End of frame!OMTP
+RenderLayerOMTP:30.735401
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:11.308526
+----End of frame!OMTP
+RenderLayerOMTP:22.726278
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:10.601201
+PaintedLayerCallback - Capture - OMTP:2.393354
+PaintedLayerCallback - Capture - OMTP:11.121349
+----End of frame!OMTP
+RenderLayerOMTP:47.164087
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.643809
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.773726
+PaintedLayerCallback - Capture - OMTP:1.904964
+----End of frame!OMTP
+RenderLayerOMTP:21.313073
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.641885
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.611090
+PaintedLayerCallback - Capture - OMTP:3.135804
+PaintedLayerCallback - Capture - OMTP:4.431121
+----End of frame!OMTP
+RenderLayerOMTP:28.670206
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.408035
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.417658
+PaintedLayerCallback - Capture - OMTP:0.323348
+----End of frame!OMTP
+RenderLayerOMTP:9.170193
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:1.038852
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.392637
+PaintedLayerCallback - Capture - OMTP:0.705881
+----End of frame!OMTP
+RenderLayerOMTP:4.879093
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.818475
+PaintedLayerCallback - Capture - OMTP:0.891613
+PaintedLayerCallback - Capture - OMTP:3.751224
+----End of frame!OMTP
+RenderLayerOMTP:21.465605
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.251172
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.274269
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.308913
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.415733
+----End of frame!OMTP
+RenderLayerOMTP:5.503175
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.671717
+PaintedLayerCallback - Capture - OMTP:4.268485
+----End of frame!OMTP
+RenderLayerOMTP:10.704654
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:2.565133
+PaintedLayerCallback - Capture - OMTP:0.275712
+----End of frame!OMTP
+RenderLayerOMTP:12.083214
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.960902
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.455671
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.332972
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.257428
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.995066
+PaintedLayerCallback - Capture - OMTP:0.356549
+----End of frame!OMTP
+RenderLayerOMTP:8.218433
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.489834
+PaintedLayerCallback - Capture - OMTP:5.210621
+PaintedLayerCallback - Capture - OMTP:7.148305
+----End of frame!OMTP
+RenderLayerOMTP:28.669244
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.400817
+----End of frame!OMTP
+RenderLayerOMTP:3.228670
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.516299
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:12.662065
+PaintedLayerCallback - Capture - OMTP:0.506675
+----End of frame!OMTP
+RenderLayerOMTP:19.535620
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.266089
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.401779
+PaintedLayerCallback - Capture - OMTP:0.424395
+----End of frame!OMTP
+RenderLayerOMTP:4.927692
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.931070
+PaintedLayerCallback - Capture - OMTP:0.402261
+----End of frame!OMTP
+RenderLayerOMTP:3.647772
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.551905
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.767707
+PaintedLayerCallback - Capture - OMTP:0.509562
+----End of frame!OMTP
+RenderLayerOMTP:8.246822
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.273306
+FlushAsyncPaintOMTP:0.002887
+PaintedLayerCallback - Capture - OMTP:2.659443
+----End of frame!OMTP
+RenderLayerOMTP:8.859356
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.401779
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.655357
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.627449
+----End of frame!OMTP
+RenderLayerOMTP:2.471304
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.814380
+PaintedLayerCallback - Capture - OMTP:0.811739
+PaintedLayerCallback - Capture - OMTP:0.676529
+----End of frame!OMTP
+RenderLayerOMTP:16.183770
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.466257
+----End of frame!OMTP
+RenderLayerOMTP:3.919635
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.358474
+----End of frame!OMTP
+RenderLayerOMTP:2.201847
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.552868
+----End of frame!OMTP
+RenderLayerOMTP:2.716702
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.749903
+PaintedLayerCallback - Capture - OMTP:1.240945
+----End of frame!OMTP
+RenderLayerOMTP:14.148889
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.392637
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.349332
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.717910
+----End of frame!OMTP
+RenderLayerOMTP:2.606032
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.730902
+----End of frame!OMTP
+RenderLayerOMTP:2.646451
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.660169
+PaintedLayerCallback - Capture - OMTP:5.635016
+PaintedLayerCallback - Capture - OMTP:5.803908
+----End of frame!OMTP
+RenderLayerOMTP:18.014632
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.639960
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.290147
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.327198
+----End of frame!OMTP
+RenderLayerOMTP:2.647895
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.258871
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.307951
+PaintedLayerCallback - Capture - OMTP:0.263683
+PaintedLayerCallback - Capture - OMTP:0.239143
+----End of frame!OMTP
+RenderLayerOMTP:9.270758
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:4.335368
+----End of frame!OMTP
+RenderLayerOMTP:6.541546
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.123661
+----End of frame!OMTP
+RenderLayerOMTP:4.267523
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.747743
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.757847
+PaintedLayerCallback - Capture - OMTP:2.667141
+PaintedLayerCallback - Capture - OMTP:4.404176
+PaintedLayerCallback - Capture - OMTP:0.232888
+PaintedLayerCallback - Capture - OMTP:0.094791
+PaintedLayerCallback - Capture - OMTP:5.312149
+PaintedLayerCallback - Capture - OMTP:9.958836
+----End of frame!OMTP
+RenderLayerOMTP:67.458998
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.155419
+----End of frame!OMTP
+RenderLayerOMTP:17.062872
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:5.035474
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.403704
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.408035
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.396486
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.395043
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.702994
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.956572
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.487909
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.539395
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.350294
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.347407
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.468662
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.385901
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.447010
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.659688
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.428725
+FlushAsyncPaintOMTP:0.002887
+----End of frame!OMTP
+RenderLayerOMTP:0.290147
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.289666
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.555274
+PaintedLayerCallback - Capture - OMTP:0.523035
+----End of frame!OMTP
+RenderLayerOMTP:5.826042
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.633705
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.290147
+----End of frame!OMTP
+RenderLayerOMTP:2.624798
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.628412
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.507156
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.521110
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.287260
+FlushAsyncPaintOMTP:0.064477
+----End of frame!OMTP
+RenderLayerOMTP:0.518223
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.279080
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.037409
+----End of frame!OMTP
+RenderLayerOMTP:3.766622
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.779500
+----End of frame!OMTP
+RenderLayerOMTP:11.663631
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:8.000943
+PaintedLayerCallback - Capture - OMTP:13.687445
+PaintedLayerCallback - Capture - OMTP:2.506430
+----End of frame!OMTP
+RenderLayerOMTP:51.037048
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:23.196384
+PaintedLayerCallback - Capture - OMTP:1.223142
+----End of frame!OMTP
+RenderLayerOMTP:29.753327
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:11.291203
+PaintedLayerCallback - Capture - OMTP:12.451792
+PaintedLayerCallback - Capture - OMTP:0.368097
+PaintedLayerCallback - Capture - OMTP:20.107735
+PaintedLayerCallback - Capture - OMTP:0.222783
+PaintedLayerCallback - Capture - OMTP:0.202574
+----End of frame!OMTP
+RenderLayerOMTP:94.382066
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.166005
+PaintedLayerCallback - Capture - OMTP:19.745893
+PaintedLayerCallback - Capture - OMTP:4.367125
+----End of frame!OMTP
+RenderLayerOMTP:57.794159
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:3.604947
+----End of frame!OMTP
+RenderLayerOMTP:5.926607
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.113434
+PaintedLayerCallback - Capture - OMTP:0.500420
+----End of frame!OMTP
+RenderLayerOMTP:6.098867
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.627931
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.293034
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.601825
+----End of frame!OMTP
+RenderLayerOMTP:3.943212
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:14.222990
+----End of frame!OMTP
+RenderLayerOMTP:22.036276
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.540716
+PaintedLayerCallback - Capture - OMTP:3.353294
+PaintedLayerCallback - Capture - OMTP:18.368776
+----End of frame!OMTP
+RenderLayerOMTP:34.315327
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.316612
+----End of frame!OMTP
+RenderLayerOMTP:3.423064
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.504628
+PaintedLayerCallback - Capture - OMTP:0.120293
+PaintedLayerCallback - Capture - OMTP:0.279561
+----End of frame!OMTP
+RenderLayerOMTP:9.009000
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.560566
+PaintedLayerCallback - Capture - OMTP:0.871885
+PaintedLayerCallback - Capture - OMTP:0.593767
+PaintedLayerCallback - Capture - OMTP:0.250691
+----End of frame!OMTP
+RenderLayerOMTP:35.959495
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.047513
+----End of frame!OMTP
+RenderLayerOMTP:4.872357
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.553830
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.445085
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.273306
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.292553
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.401298
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.427763
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.423432
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.297365
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.573077
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.296403
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.498495
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.838203
+----End of frame!OMTP
+RenderLayerOMTP:3.351850
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:3.520742
+----End of frame!OMTP
+RenderLayerOMTP:5.599890
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.657282
+PaintedLayerCallback - Capture - OMTP:0.138097
+PaintedLayerCallback - Capture - OMTP:0.178515
+PaintedLayerCallback - Capture - OMTP:0.272344
+----End of frame!OMTP
+RenderLayerOMTP:45.772054
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.467700
+PaintedLayerCallback - Capture - OMTP:0.098159
+PaintedLayerCallback - Capture - OMTP:0.127511
+----End of frame!OMTP
+RenderLayerOMTP:12.219867
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.829061
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.386382
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.518704
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.200526
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.354624
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.357511
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.354624
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.363767
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.553830
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.361842
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.364248
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.704918
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.609165
+PaintedLayerCallback - Capture - OMTP:0.213641
+PaintedLayerCallback - Capture - OMTP:0.254059
+----End of frame!OMTP
+RenderLayerOMTP:8.340170
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.069166
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.547094
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.693370
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.364729
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.386863
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.371947
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.182365
+PaintedLayerCallback - Capture - OMTP:0.509081
+PaintedLayerCallback - Capture - OMTP:0.499457
+----End of frame!OMTP
+RenderLayerOMTP:13.758658
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.858412
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.379164
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.784793
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.426319
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.363286
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.868998
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.367135
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.825693
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.434018
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.369541
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.410440
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.777094
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.368097
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.371465
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.583182
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.377721
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.408997
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.366654
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.165523
+PaintedLayerCallback - Capture - OMTP:0.772283
+PaintedLayerCallback - Capture - OMTP:0.259352
+----End of frame!OMTP
+RenderLayerOMTP:18.692124
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.930107
+----End of frame!OMTP
+RenderLayerOMTP:3.007331
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.300733
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.472993
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.300252
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.071091
+----End of frame!OMTP
+RenderLayerOMTP:5.491626
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.346444
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.311319
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.303620
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.298808
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.296403
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.293997
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.436424
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.452784
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.302177
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.256342
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.418620
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.445566
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.468662
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.443160
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.300252
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.442679
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:1.068685
+----End of frame!OMTP
+RenderLayerOMTP:4.194865
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.297365
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.430169
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.302177
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.301214
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.297846
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.425838
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.282448
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.429206
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.353662
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.298808
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.291110
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.297365
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.342114
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.294478
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.295440
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.291591
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.296403
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.551424
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.293515
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.960902
+----End of frame!OMTP
+RenderLayerOMTP:2.862979
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.294478
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.303620
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.296403
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.077469
+----End of frame!OMTP
+RenderLayerOMTP:1.864545
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.627449
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.284854
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.800672
+----End of frame!OMTP
+RenderLayerOMTP:2.819673
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.297846
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.349332
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.274269
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.295440
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.427282
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.291591
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.711174
+----End of frame!OMTP
+RenderLayerOMTP:2.768188
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.262720
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.274750
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.269457
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.287260
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.269938
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.285336
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.289666
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.327198
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.274750
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.275231
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.268013
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.265126
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.281005
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.265607
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.701069
+----End of frame!OMTP
+RenderLayerOMTP:2.862498
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.438349
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.404185
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.261277
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.278118
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.282448
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.258390
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.159627
+----End of frame!OMTP
+RenderLayerOMTP:3.223377
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.419102
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.733308
+----End of frame!OMTP
+RenderLayerOMTP:2.956326
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.363767
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.395043
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.218934
+PaintedLayerCallback - Capture - OMTP:0.407553
+PaintedLayerCallback - Capture - OMTP:8.679397
+----End of frame!OMTP
+RenderLayerOMTP:20.934390
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.210273
+PaintedLayerCallback - Capture - OMTP:10.139275
+PaintedLayerCallback - Capture - OMTP:0.593286
+----End of frame!OMTP
+RenderLayerOMTP:25.305846
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:1.272702
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.289666
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.170816
+----End of frame!OMTP
+RenderLayerOMTP:2.395279
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.343557
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.295440
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.280043
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.602428
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.290147
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.915672
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.269938
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.287260
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.268494
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.435943
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.430169
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.503788
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.757366
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.298327
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.280043
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.297846
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.891613
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.404666
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.291591
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.297846
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.291591
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.293997
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.291110
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.293515
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.535064
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.278118
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.284854
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.280043
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.432574
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.283411
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.676048
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.290628
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.416696
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.292553
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.361842
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.419583
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.293034
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.885839
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.378683
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.374353
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.275231
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.600023
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.286779
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.291591
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.269457
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.291110
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.277637
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.281967
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.281967
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.281005
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.275712
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.284854
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.288223
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.288704
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.283892
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.268976
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.396486
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.280524
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:5.979055
+----End of frame!OMTP
+RenderLayerOMTP:9.896283
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.268494
+----End of frame!OMTP
+RenderLayerOMTP:4.719344
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.217971
+----End of frame!OMTP
+RenderLayerOMTP:2.065194
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.230001
+----End of frame!OMTP
+RenderLayerOMTP:2.523271
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.254540
+----End of frame!OMTP
+RenderLayerOMTP:2.642602
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.227114
+----End of frame!OMTP
+RenderLayerOMTP:2.490070
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.301695
+----End of frame!OMTP
+RenderLayerOMTP:3.250804
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:6.868262
+----End of frame!OMTP
+RenderLayerOMTP:9.720655
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.279080
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.295440
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.630818
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.336340
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.275231
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.288223
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.305545
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.302177
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.434018
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.280043
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.302177
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.261758
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.290147
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.517261
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.405629
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.438349
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:1.442075
+PaintedLayerCallback - Capture - OMTP:0.594730
+PaintedLayerCallback - Capture - OMTP:3.929739
+----End of frame!OMTP
+RenderLayerOMTP:15.399458
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.114274
+PaintedLayerCallback - Capture - OMTP:0.443160
+PaintedLayerCallback - Capture - OMTP:0.200649
+----End of frame!OMTP
+RenderLayerOMTP:12.135181
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.488872
+FlushAsyncPaintOMTP:0.004812
+----End of frame!OMTP
+RenderLayerOMTP:0.294959
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.250210
+----End of frame!OMTP
+RenderLayerOMTP:1.828938
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.338746
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.759291
+----End of frame!OMTP
+RenderLayerOMTP:2.653187
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.464813
+PaintedLayerCallback - Capture - OMTP:8.738581
+PaintedLayerCallback - Capture - OMTP:0.178515
+PaintedLayerCallback - Capture - OMTP:0.272825
+----End of frame!OMTP
+RenderLayerOMTP:44.001819
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.345963
+----End of frame!OMTP
+RenderLayerOMTP:3.357625
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.328160
+----End of frame!OMTP
+RenderLayerOMTP:2.086847
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.502826
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.359436
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.408997
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.359917
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.408516
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.508600
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.527366
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.601947
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.420064
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.379164
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.530253
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.342114
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.345963
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.525922
+----End of frame!OMTP
+RenderLayerOMTP:2.281722
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.751111
+----End of frame!OMTP
+RenderLayerOMTP:15.132888
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.594249
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.294478
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.544207
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.460482
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.438830
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.493683
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.502826
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.285336
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.490315
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.279080
+----End of frame!OMTP
+RenderLayerOMTP:2.015152
+FlushAsyncPaintOMTP:0.002887
+----End of frame!OMTP
+RenderLayerOMTP:0.529771
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.254540
+----End of frame!OMTP
+RenderLayerOMTP:1.937683
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.353662
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.359917
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.417177
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.352700
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.597136
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.407553
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.360880
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.400817
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.474918
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.403704
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.448934
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.383014
+----End of frame!OMTP
+RenderLayerOMTP:2.428480
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.500420
+----End of frame!OMTP
+RenderLayerOMTP:2.659443
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.346444
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.332490
+----End of frame!OMTP
+RenderLayerOMTP:1.921323
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.375796
+----End of frame!OMTP
+RenderLayerOMTP:1.956930
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.623119
+----End of frame!OMTP
+RenderLayerOMTP:3.127624
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.350294
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.418139
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.672199
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.435461
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.419583
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.285817
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.397449
+----End of frame!OMTP
+RenderLayerOMTP:3.036682
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.448934
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.392156
+----End of frame!OMTP
+RenderLayerOMTP:2.551179
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.477805
+----End of frame!OMTP
+RenderLayerOMTP:2.031031
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.442679
+----End of frame!OMTP
+RenderLayerOMTP:2.288940
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.291110
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.286298
+----End of frame!OMTP
+RenderLayerOMTP:2.283165
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.406591
+----End of frame!OMTP
+RenderLayerOMTP:2.435216
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.279080
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:1.282326
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.282930
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.543725
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.476842
+----End of frame!OMTP
+RenderLayerOMTP:2.300969
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.307951
+----End of frame!OMTP
+RenderLayerOMTP:2.408270
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.405148
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.297846
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.296884
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.557198
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.393118
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.503788
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.279080
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.348850
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.266089
+----End of frame!OMTP
+RenderLayerOMTP:1.782746
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.348369
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.715023
+----End of frame!OMTP
+RenderLayerOMTP:4.361832
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.697701
+----End of frame!OMTP
+RenderLayerOMTP:8.178015
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.295440
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.295440
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.434499
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.305545
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.350294
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.583663
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.342114
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.357993
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.383976
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.283411
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.283411
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.439311
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.749186
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.430650
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.472031
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.288704
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.317574
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.286298
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.446047
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.295921
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.458558
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.287741
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.345482
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.489834
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.292553
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.285817
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.320942
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.285817
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.289185
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.281486
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.510524
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.858894
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.282448
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.507156
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.280524
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.599060
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.290628
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.283411
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.289185
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.611090
+----End of frame!OMTP
+RenderLayerOMTP:3.212310
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.467700
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.532177
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.459520
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.452784
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.302658
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.449415
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.484541
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.448934
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.286779
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.376758
+----End of frame!OMTP
+RenderLayerOMTP:2.067600
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.383014
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.363767
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.655839
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.284373
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.456633
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.468662
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.343557
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.441717
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.443160
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.282448
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.423432
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.412365
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.444123
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.434980
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.273306
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.289666
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.283892
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.682303
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.275231
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.278599
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.274750
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.282930
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.408516
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.410922
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.458558
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.367135
+----End of frame!OMTP
+RenderLayerOMTP:4.106330
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.456152
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.406591
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.357511
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.514855
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.285817
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.645253
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.448453
+----End of frame!OMTP
+RenderLayerOMTP:2.031512
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.560085
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.497533
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.306988
+----End of frame!OMTP
+RenderLayerOMTP:3.690596
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.614458
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.551905
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.506675
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.530734
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.018520
+PaintedLayerCallback - Capture - OMTP:0.700107
+PaintedLayerCallback - Capture - OMTP:8.665924
+PaintedLayerCallback - Capture - OMTP:9.138436
+PaintedLayerCallback - Capture - OMTP:8.982536
+----End of frame!OMTP
+RenderLayerOMTP:55.288692
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.223745
+PaintedLayerCallback - Capture - OMTP:0.205461
+----End of frame!OMTP
+RenderLayerOMTP:21.064306
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:4.587021
+PaintedLayerCallback - Capture - OMTP:0.184289
+----End of frame!OMTP
+RenderLayerOMTP:9.417997
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.569228
+PaintedLayerCallback - Capture - OMTP:2.493438
+----End of frame!OMTP
+RenderLayerOMTP:9.827475
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:26.515995
+----End of frame!OMTP
+RenderLayerOMTP:46.187787
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.823768
+----End of frame!OMTP
+RenderLayerOMTP:6.467445
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.603872
+----End of frame!OMTP
+RenderLayerOMTP:3.738232
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.470106
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.173222
+----End of frame!OMTP
+RenderLayerOMTP:2.247559
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.357389
+PaintedLayerCallback - Capture - OMTP:0.427763
+PaintedLayerCallback - Capture - OMTP:4.658716
+PaintedLayerCallback - Capture - OMTP:0.125586
+PaintedLayerCallback - Capture - OMTP:6.244181
+----End of frame!OMTP
+RenderLayerOMTP:33.865912
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.246361
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.294478
+----End of frame!OMTP
+RenderLayerOMTP:5.432923
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:0.881990
+PaintedLayerCallback - Capture - OMTP:4.577879
+PaintedLayerCallback - Capture - OMTP:13.553678
+----End of frame!OMTP
+RenderLayerOMTP:31.477850
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.256465
+----End of frame!OMTP
+RenderLayerOMTP:5.047504
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.370503
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.400336
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.386863
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.258871
+----End of frame!OMTP
+RenderLayerOMTP:5.100914
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.250210
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.687115
+PaintedLayerCallback - Capture - OMTP:4.905558
+----End of frame!OMTP
+RenderLayerOMTP:9.937183
+FlushAsyncPaintOMTP:18.228754
+----End of frame!OMTP
+RenderLayerOMTP:0.364729
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.268013
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.264645
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.387344
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.305545
+----End of frame!OMTP
+RenderLayerOMTP:25.415553
+FlushAsyncPaintOMTP:0.003368
+PaintedLayerCallback - Capture - OMTP:0.301695
+----End of frame!OMTP
+RenderLayerOMTP:6.834099
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.267532
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.266089
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.247323
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.350294
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.372909
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.475399
+----End of frame!OMTP
+RenderLayerOMTP:2.324065
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.251653
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.253097
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.376277
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.252616
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.252135
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.255984
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.000717
+----End of frame!OMTP
+RenderLayerOMTP:3.860450
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.246842
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.073978
+----End of frame!OMTP
+RenderLayerOMTP:12.352190
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:3.765178
+----End of frame!OMTP
+RenderLayerOMTP:6.329348
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.127869
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.562010
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.363767
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.435461
+----End of frame!OMTP
+RenderLayerOMTP:5.427630
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.260315
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.334896
+----End of frame!OMTP
+RenderLayerOMTP:2.005529
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.259352
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.491278
+PaintedLayerCallback - Capture - OMTP:9.514713
+PaintedLayerCallback - Capture - OMTP:0.895463
+PaintedLayerCallback - Capture - OMTP:4.017794
+----End of frame!OMTP
+RenderLayerOMTP:31.554838
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.748224
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.344520
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.340670
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.257909
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.260796
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.263202
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.407072
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.390712
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.241549
+PaintedLayerCallback - Capture - OMTP:6.892321
+PaintedLayerCallback - Capture - OMTP:0.116925
+PaintedLayerCallback - Capture - OMTP:0.062552
+PaintedLayerCallback - Capture - OMTP:0.063515
+PaintedLayerCallback - Capture - OMTP:0.097197
+PaintedLayerCallback - Capture - OMTP:0.066883
+PaintedLayerCallback - Capture - OMTP:0.071214
+PaintedLayerCallback - Capture - OMTP:0.628893
+PaintedLayerCallback - Capture - OMTP:0.534102
+PaintedLayerCallback - Capture - OMTP:0.137134
+PaintedLayerCallback - Capture - OMTP:0.169373
+----End of frame!OMTP
+RenderLayerOMTP:54.402371
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.099603
+----End of frame!OMTP
+RenderLayerOMTP:15.142993
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.083243
+PaintedLayerCallback - Capture - OMTP:0.063034
+PaintedLayerCallback - Capture - OMTP:0.110670
+----End of frame!OMTP
+RenderLayerOMTP:9.052787
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.485503
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.186695
+PaintedLayerCallback - Capture - OMTP:3.013105
+PaintedLayerCallback - Capture - OMTP:0.115963
+PaintedLayerCallback - Capture - OMTP:0.129436
+PaintedLayerCallback - Capture - OMTP:0.062552
+PaintedLayerCallback - Capture - OMTP:0.118369
+PaintedLayerCallback - Capture - OMTP:0.074101
+PaintedLayerCallback - Capture - OMTP:0.651508
+PaintedLayerCallback - Capture - OMTP:0.536027
+PaintedLayerCallback - Capture - OMTP:0.134728
+PaintedLayerCallback - Capture - OMTP:0.159268
+----End of frame!OMTP
+RenderLayerOMTP:44.438724
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:9.124001
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:7.575105
+PaintedLayerCallback - Capture - OMTP:0.087573
+PaintedLayerCallback - Capture - OMTP:0.063515
+----End of frame!OMTP
+RenderLayerOMTP:17.758648
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.861781
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.621675
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.546612
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.647178
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.615420
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.588956
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.715985
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.609165
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.878622
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.540357
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.552868
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.548537
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.640441
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.546131
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.571633
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.559123
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.544688
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.557198
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.555274
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.115963
+PaintedLayerCallback - Capture - OMTP:0.065440
+PaintedLayerCallback - Capture - OMTP:0.099603
+PaintedLayerCallback - Capture - OMTP:0.066883
+----End of frame!OMTP
+RenderLayerOMTP:28.387277
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.563935
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.607240
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.584144
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.561048
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.676048
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.613495
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.547575
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.535545
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.549499
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.562010
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.850714
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.607240
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.543725
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.488872
+PaintedLayerCallback - Capture - OMTP:3.731496
+PaintedLayerCallback - Capture - OMTP:0.235775
+PaintedLayerCallback - Capture - OMTP:0.152532
+PaintedLayerCallback - Capture - OMTP:0.190063
+PaintedLayerCallback - Capture - OMTP:0.115963
+----End of frame!OMTP
+RenderLayerOMTP:33.714823
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.717429
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.760253
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.731864
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:2.796096
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.575483
+PaintedLayerCallback - Capture - OMTP:0.673161
+----End of frame!OMTP
+RenderLayerOMTP:17.040739
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.437386
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.441236
+----End of frame!OMTP
+RenderLayerOMTP:11.091036
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.350775
+----End of frame!OMTP
+RenderLayerOMTP:15.307073
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.448453
+----End of frame!OMTP
+RenderLayerOMTP:2.938523
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:3.592437
+PaintedLayerCallback - Capture - OMTP:0.118369
+PaintedLayerCallback - Capture - OMTP:0.106820
+PaintedLayerCallback - Capture - OMTP:0.070251
+PaintedLayerCallback - Capture - OMTP:0.403704
+PaintedLayerCallback - Capture - OMTP:0.079875
+PaintedLayerCallback - Capture - OMTP:0.143390
+PaintedLayerCallback - Capture - OMTP:0.167448
+PaintedLayerCallback - Capture - OMTP:0.122699
+PaintedLayerCallback - Capture - OMTP:0.136172
+PaintedLayerCallback - Capture - OMTP:0.088536
+PaintedLayerCallback - Capture - OMTP:0.115481
+PaintedLayerCallback - Capture - OMTP:0.069770
+PaintedLayerCallback - Capture - OMTP:0.097678
+PaintedLayerCallback - Capture - OMTP:0.192469
+PaintedLayerCallback - Capture - OMTP:0.183327
+----End of frame!OMTP
+RenderLayerOMTP:123.325578
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.127030
+----End of frame!OMTP
+RenderLayerOMTP:12.976752
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.734751
+----End of frame!OMTP
+RenderLayerOMTP:8.011529
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:4.995056
+PaintedLayerCallback - Capture - OMTP:0.131360
+PaintedLayerCallback - Capture - OMTP:0.094310
+PaintedLayerCallback - Capture - OMTP:0.086130
+PaintedLayerCallback - Capture - OMTP:0.144833
+PaintedLayerCallback - Capture - OMTP:0.075544
+PaintedLayerCallback - Capture - OMTP:0.207386
+PaintedLayerCallback - Capture - OMTP:0.242030
+PaintedLayerCallback - Capture - OMTP:0.262720
+PaintedLayerCallback - Capture - OMTP:0.503307
+PaintedLayerCallback - Capture - OMTP:0.130398
+PaintedLayerCallback - Capture - OMTP:0.084686
+PaintedLayerCallback - Capture - OMTP:0.072176
+PaintedLayerCallback - Capture - OMTP:0.111151
+PaintedLayerCallback - Capture - OMTP:0.102490
+PaintedLayerCallback - Capture - OMTP:0.094791
+PaintedLayerCallback - Capture - OMTP:0.205461
+PaintedLayerCallback - Capture - OMTP:0.215084
+----End of frame!OMTP
+RenderLayerOMTP:132.265771
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:5.270768
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:1.781783
+PaintedLayerCallback - Capture - OMTP:4.649574
+PaintedLayerCallback - Capture - OMTP:0.146758
+PaintedLayerCallback - Capture - OMTP:0.144833
+PaintedLayerCallback - Capture - OMTP:0.165042
+PaintedLayerCallback - Capture - OMTP:0.088055
+PaintedLayerCallback - Capture - OMTP:0.238662
+----End of frame!OMTP
+RenderLayerOMTP:38.073287
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.913266
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:6.136398
+----End of frame!OMTP
+RenderLayerOMTP:13.870771
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:3.915304
+----End of frame!OMTP
+RenderLayerOMTP:6.125331
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.067242
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.576926
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.761216
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.557198
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.551424
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.548056
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.557679
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.552386
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.583663
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.549018
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.591843
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.560566
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.571633
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.903643
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.565378
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.576445
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.081318
+PaintedLayerCallback - Capture - OMTP:0.060147
+----End of frame!OMTP
+RenderLayerOMTP:4.207376
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.592324
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.585587
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.598579
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.605316
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.561529
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.546131
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.589437
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.597136
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.582700
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.579813
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.584625
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.922890
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.596173
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.572596
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.763140
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.560085
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.549018
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.562491
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.556717
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.562491
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.556717
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.559123
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.566341
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.602428
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.565859
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.584144
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.566341
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.541320
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.720797
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.569709
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.563453
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.565378
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.577407
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.612052
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.754479
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.799709
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.474436
+----End of frame!OMTP
+RenderLayerOMTP:3.073251
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:1.386259
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.716466
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.480692
+PaintedLayerCallback - Capture - OMTP:3.960534
+PaintedLayerCallback - Capture - OMTP:1.566699
+PaintedLayerCallback - Capture - OMTP:0.178996
+PaintedLayerCallback - Capture - OMTP:0.081799
+PaintedLayerCallback - Capture - OMTP:0.912785
+PaintedLayerCallback - Capture - OMTP:0.270900
+PaintedLayerCallback - Capture - OMTP:0.556717
+PaintedLayerCallback - Capture - OMTP:0.165523
+PaintedLayerCallback - Capture - OMTP:0.180921
+PaintedLayerCallback - Capture - OMTP:0.078912
+PaintedLayerCallback - Capture - OMTP:12.422441
+PaintedLayerCallback - Capture - OMTP:8.987829
+----End of frame!OMTP
+RenderLayerOMTP:75.493623
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.635629
+PaintedLayerCallback - Capture - OMTP:5.988197
+----End of frame!OMTP
+RenderLayerOMTP:11.726184
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.844458
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.994584
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.483098
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.419102
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.518223
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.401779
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.615420
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.522073
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.425357
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.796822
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.405629
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.729458
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.385419
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.400336
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.456152
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.401779
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.406110
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.396486
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.499457
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.394081
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.587993
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.714542
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.493683
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.413328
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.410440
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.394081
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.422951
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.741006
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.707805
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.463370
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.440754
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.440273
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.397930
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.401298
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.540838
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.478767
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.665943
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.381570
+----End of frame!OMTP
+RenderLayerOMTP:7.168033
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.280043
+----End of frame!OMTP
+RenderLayerOMTP:2.639715
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.461445
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.644291
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.555274
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.410922
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.567303
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.401779
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.466738
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.639479
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.404185
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.408997
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.442679
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.518704
+----End of frame!OMTP
+RenderLayerOMTP:2.709966
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.477324
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.477324
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.684228
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.822324
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.564416
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.577889
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.910860
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.585106
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.408997
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.466257
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.433537
+----End of frame!OMTP
+RenderLayerOMTP:6.457822
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.851195
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.801634
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.408516
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.414290
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.454227
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.412365
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.483098
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.678935
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.417658
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.495127
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.605797
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.046910
+PaintedLayerCallback - Capture - OMTP:0.713098
+PaintedLayerCallback - Capture - OMTP:3.104046
+PaintedLayerCallback - Capture - OMTP:7.734854
+PaintedLayerCallback - Capture - OMTP:8.468643
+----End of frame!OMTP
+RenderLayerOMTP:42.207044
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.355106
+PaintedLayerCallback - Capture - OMTP:0.170335
+----End of frame!OMTP
+RenderLayerOMTP:29.707134
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.667387
+PaintedLayerCallback - Capture - OMTP:1.057618
+PaintedLayerCallback - Capture - OMTP:0.172260
+----End of frame!OMTP
+RenderLayerOMTP:8.742431
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:25.933295
+----End of frame!OMTP
+RenderLayerOMTP:33.914510
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:15.313328
+----End of frame!OMTP
+RenderLayerOMTP:37.502135
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.224227
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.223264
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:3.105009
+----End of frame!OMTP
+RenderLayerOMTP:5.945372
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:4.645243
+----End of frame!OMTP
+RenderLayerOMTP:11.469719
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Capture - OMTP:5.379032
+----End of frame!OMTP
+RenderLayerOMTP:8.535526
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.248766
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.253097
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.237218
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.247323
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.370022
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.224227
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.231444
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.367135
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.371947
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.336340
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.349813
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.389750
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.235775
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.332972
+----End of frame!OMTP
+RenderLayerOMTP:3.103565
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.248163
+PaintedLayerCallback - Capture - OMTP:0.285336
+----End of frame!OMTP
+RenderLayerOMTP:18.002603
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.444481
+----End of frame!OMTP
+RenderLayerOMTP:3.560198
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.397930
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.394081
+PaintedLayerCallback - Capture - OMTP:0.295921
+----End of frame!OMTP
+RenderLayerOMTP:10.822541
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.237218
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.261277
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.353058
+PaintedLayerCallback - Capture - OMTP:0.413328
+PaintedLayerCallback - Capture - OMTP:4.798737
+PaintedLayerCallback - Capture - OMTP:0.184770
+PaintedLayerCallback - Capture - OMTP:1.601343
+----End of frame!OMTP
+RenderLayerOMTP:22.621863
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.238181
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.230001
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.263683
+----End of frame!OMTP
+RenderLayerOMTP:3.982187
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.348369
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.227595
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.275712
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.371465
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.239624
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Capture - OMTP:0.606278
+----End of frame!OMTP
+RenderLayerOMTP:3.188733
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.554311
+PaintedLayerCallback - Capture - OMTP:2.300006
+PaintedLayerCallback - Capture - OMTP:0.339227
+----End of frame!OMTP
+RenderLayerOMTP:16.318498
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.228557
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.346444
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.230482
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.507637
+----End of frame!OMTP
+RenderLayerOMTP:2.931787
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.722241
+----End of frame!OMTP
+RenderLayerOMTP:2.734987
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.602910
+----End of frame!OMTP
+RenderLayerOMTP:3.154570
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.154457
+PaintedLayerCallback - Capture - OMTP:1.089375
+----End of frame!OMTP
+RenderLayerOMTP:4.736666
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.253097
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:1.735110
+----End of frame!OMTP
+RenderLayerOMTP:3.764697
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.533140
+PaintedLayerCallback - Capture - OMTP:1.310715
+----End of frame!OMTP
+RenderLayerOMTP:6.964497
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.267051
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.657282
+PaintedLayerCallback - Capture - OMTP:3.164193
+PaintedLayerCallback - Capture - OMTP:5.321772
+----End of frame!OMTP
+RenderLayerOMTP:17.029190
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.618788
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.377721
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.345001
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.367135
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.371947
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.439792
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.365691
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.536989
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.667387
+PaintedLayerCallback - Capture - OMTP:0.573558
+----End of frame!OMTP
+RenderLayerOMTP:8.014897
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:2.985197
+----End of frame!OMTP
+RenderLayerOMTP:5.780811
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Capture - OMTP:0.932032
+----End of frame!OMTP
+RenderLayerOMTP:4.483569
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.383976
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.392637
+----End of frame!OMTP
+RenderLayerOMTP:2.860092
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.381089
+FlushAsyncPaintOMTP:0.003368
+----End of frame!OMTP
+RenderLayerOMTP:0.403223
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.221340
+----End of frame!OMTP
+RenderLayerOMTP:2.259588
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.386863
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.276674
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.225189
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Capture - OMTP:0.236256
+----End of frame!OMTP
+RenderLayerOMTP:2.100320
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.307951

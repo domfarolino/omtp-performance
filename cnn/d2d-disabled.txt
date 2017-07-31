@@ -1,0 +1,1773 @@
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.291110
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:4.186685
+----End of frame!OMTP
+RenderLayerOMTP:7.600607
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:5.228906
+----End of frame!OMTP
+RenderLayerOMTP:6.883660
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:3.093461
+----End of frame!OMTP
+RenderLayerOMTP:7.685294
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:4.194384
+----End of frame!OMTP
+RenderLayerOMTP:5.898217
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.464332
+PaintedLayerCallback - Thebes - OMTP:4.261748
+----End of frame!OMTP
+RenderLayerOMTP:41.618569
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:3.391788
+PaintedLayerCallback - Thebes - OMTP:4.704909
+----End of frame!OMTP
+RenderLayerOMTP:13.779830
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:0.373871
+PaintedLayerCallback - Thebes - OMTP:1.113434
+----End of frame!OMTP
+RenderLayerOMTP:2.521346
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:3.916747
+----End of frame!OMTP
+RenderLayerOMTP:4.569218
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:3.035720
+----End of frame!OMTP
+RenderLayerOMTP:3.688672
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.186214
+----End of frame!OMTP
+RenderLayerOMTP:0.798747
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.574039
+----End of frame!OMTP
+RenderLayerOMTP:1.204376
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.196319
+----End of frame!OMTP
+RenderLayerOMTP:0.856488
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:5.415120
+----End of frame!OMTP
+RenderLayerOMTP:6.047862
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:5.884263
+----End of frame!OMTP
+RenderLayerOMTP:6.498240
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:5.694681
+----End of frame!OMTP
+RenderLayerOMTP:6.292298
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:5.967506
+----End of frame!OMTP
+RenderLayerOMTP:6.585814
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:5.873197
+----End of frame!OMTP
+RenderLayerOMTP:6.509307
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.501863
+----End of frame!OMTP
+RenderLayerOMTP:1.074940
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.189101
+----End of frame!OMTP
+RenderLayerOMTP:0.755441
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.187657
+----End of frame!OMTP
+RenderLayerOMTP:0.751111
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:0.383976
+----End of frame!OMTP
+RenderLayerOMTP:0.782387
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:0.146758
+----End of frame!OMTP
+RenderLayerOMTP:0.540357
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.091423
+FlushAsyncPaintOMTP:0.000481
+----End of frame!OMTP
+RenderLayerOMTP:0.090942
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:0.361361
+----End of frame!OMTP
+RenderLayerOMTP:0.755923
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.154457
+----End of frame!OMTP
+RenderLayerOMTP:0.558642
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:0.392637
+----End of frame!OMTP
+RenderLayerOMTP:0.812701
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.171779
+----End of frame!OMTP
+RenderLayerOMTP:0.660169
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.115963
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.505232
+----End of frame!OMTP
+RenderLayerOMTP:1.063873
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:0.147239
+----End of frame!OMTP
+RenderLayerOMTP:0.542763
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.391194
+----End of frame!OMTP
+RenderLayerOMTP:0.804521
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.152051
+----End of frame!OMTP
+RenderLayerOMTP:0.556236
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.195837
+----End of frame!OMTP
+RenderLayerOMTP:0.783349
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.456633
+----End of frame!OMTP
+RenderLayerOMTP:1.023936
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.179959
+----End of frame!OMTP
+RenderLayerOMTP:0.759772
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.133285
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:2.165759
+----End of frame!OMTP
+RenderLayerOMTP:2.746054
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.897387
+----End of frame!OMTP
+RenderLayerOMTP:1.305422
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:1.318895
+----End of frame!OMTP
+RenderLayerOMTP:1.924210
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.212075
+----End of frame!OMTP
+RenderLayerOMTP:1.779377
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.188978
+----End of frame!OMTP
+RenderLayerOMTP:1.744733
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.538791
+----End of frame!OMTP
+RenderLayerOMTP:2.094546
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.183685
+----End of frame!OMTP
+RenderLayerOMTP:1.740402
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.209669
+----End of frame!OMTP
+RenderLayerOMTP:1.776972
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.184289
+----End of frame!OMTP
+RenderLayerOMTP:0.747262
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.189582
+----End of frame!OMTP
+RenderLayerOMTP:0.766027
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.182846
+----End of frame!OMTP
+RenderLayerOMTP:0.766027
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.186214
+----End of frame!OMTP
+RenderLayerOMTP:0.773245
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.915549
+----End of frame!OMTP
+RenderLayerOMTP:2.549254
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.124020
+----End of frame!OMTP
+RenderLayerOMTP:1.695172
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.216886
+----End of frame!OMTP
+RenderLayerOMTP:1.945863
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.108622
+----End of frame!OMTP
+RenderLayerOMTP:1.671595
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.212556
+----End of frame!OMTP
+RenderLayerOMTP:1.801030
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.136530
+----End of frame!OMTP
+RenderLayerOMTP:1.774085
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.117765
+----End of frame!OMTP
+RenderLayerOMTP:1.687955
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.188139
+----End of frame!OMTP
+RenderLayerOMTP:0.805002
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.176109
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.129794
+PaintedLayerCallback - Thebes - OMTP:0.536989
+PaintedLayerCallback - Thebes - OMTP:3.446642
+PaintedLayerCallback - Thebes - OMTP:0.704437
+----End of frame!OMTP
+RenderLayerOMTP:11.748318
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.522554
+----End of frame!OMTP
+RenderLayerOMTP:1.109585
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.494165
+PaintedLayerCallback - Thebes - OMTP:2.831221
+----End of frame!OMTP
+RenderLayerOMTP:10.416912
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:41.484803
+PaintedLayerCallback - Thebes - OMTP:8.515317
+----End of frame!OMTP
+RenderLayerOMTP:51.444120
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.647055
+----End of frame!OMTP
+RenderLayerOMTP:2.671472
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.279561
+----End of frame!OMTP
+RenderLayerOMTP:0.860818
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.462407
+PaintedLayerCallback - Thebes - OMTP:104.133516
+----End of frame!OMTP
+RenderLayerOMTP:115.330891
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.461445
+PaintedLayerCallback - Thebes - OMTP:21.507948
+----End of frame!OMTP
+RenderLayerOMTP:22.999103
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.388307
+PaintedLayerCallback - Thebes - OMTP:51.196797
+PaintedLayerCallback - Thebes - OMTP:1.658122
+PaintedLayerCallback - Thebes - OMTP:0.104896
+----End of frame!OMTP
+RenderLayerOMTP:67.533580
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:2.869234
+----End of frame!OMTP
+RenderLayerOMTP:3.605910
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.431612
+PaintedLayerCallback - Thebes - OMTP:35.799745
+PaintedLayerCallback - Thebes - OMTP:0.097678
+----End of frame!OMTP
+RenderLayerOMTP:37.551215
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.569228
+FlushAsyncPaintOMTP:0.000481
+PaintedLayerCallback - Thebes - OMTP:9.862601
+----End of frame!OMTP
+RenderLayerOMTP:10.554047
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.313244
+PaintedLayerCallback - Thebes - OMTP:24.522977
+----End of frame!OMTP
+RenderLayerOMTP:25.676830
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.718391
+----End of frame!OMTP
+RenderLayerOMTP:1.261154
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.335859
+PaintedLayerCallback - Thebes - OMTP:10.678189
+----End of frame!OMTP
+RenderLayerOMTP:11.837335
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:5.346312
+----End of frame!OMTP
+RenderLayerOMTP:6.093093
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.390712
+----End of frame!OMTP
+RenderLayerOMTP:0.917116
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.050759
+----End of frame!OMTP
+RenderLayerOMTP:2.554547
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.336340
+----End of frame!OMTP
+RenderLayerOMTP:0.962827
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.117765
+----End of frame!OMTP
+RenderLayerOMTP:1.686992
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.611090
+----End of frame!OMTP
+RenderLayerOMTP:1.261154
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.183327
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.248766
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.667868
+PaintedLayerCallback - Thebes - OMTP:21.274579
+----End of frame!OMTP
+RenderLayerOMTP:23.998499
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.781906
+----End of frame!OMTP
+RenderLayerOMTP:2.026700
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.379645
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:13.931399
+----End of frame!OMTP
+RenderLayerOMTP:15.180524
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.363767
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.369060
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.606155
+----End of frame!OMTP
+RenderLayerOMTP:2.846138
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.706843
+----End of frame!OMTP
+RenderLayerOMTP:2.040654
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.140861
+----End of frame!OMTP
+RenderLayerOMTP:2.296157
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.097074
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.373390
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.391194
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.369541
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.379164
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.327679
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:11.801728
+----End of frame!OMTP
+RenderLayerOMTP:13.762026
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.483456
+----End of frame!OMTP
+RenderLayerOMTP:4.178506
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:3.683379
+----End of frame!OMTP
+RenderLayerOMTP:5.046541
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.395043
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.373390
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.393599
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:5.252483
+----End of frame!OMTP
+RenderLayerOMTP:6.558387
+FlushAsyncPaintOMTP:0.015398
+PaintedLayerCallback - Thebes - OMTP:1.784189
+----End of frame!OMTP
+RenderLayerOMTP:3.085281
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:3.308064
+PaintedLayerCallback - Thebes - OMTP:0.712617
+PaintedLayerCallback - Thebes - OMTP:54.994214
+PaintedLayerCallback - Thebes - OMTP:4.273297
+----End of frame!OMTP
+RenderLayerOMTP:74.869542
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.238181
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.357389
+----End of frame!OMTP
+RenderLayerOMTP:2.644526
+1501523495396	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1501523495456	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1501523495507	addons.update-checker	WARN	Update manifest for flyweb@mozilla.org did not contain an updates property
+1501523495561	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1501523495607	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+1501523495651	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1501523495706	addons.update-checker	WARN	Update manifest for activity-stream@mozilla.org did not contain an updates property
+1501523495755	addons.update-checker	WARN	Update manifest for formautofill@mozilla.org did not contain an updates property
+1501523495808	addons.update-checker	WARN	Update manifest for presentation@mozilla.org did not contain an updates property
+1501523495853	addons.update-checker	WARN	Update manifest for onboarding@mozilla.org did not contain an updates property
+1501523496001	addons.update-checker	WARN	Update manifest for webcompat-reporter@mozilla.org did not contain an updates property
+1501523496057	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1501523496107	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1501523497046	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1501523497047	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1501523497238	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.582219
+PaintedLayerCallback - Thebes - OMTP:0.261758
+----End of frame!OMTP
+RenderLayerOMTP:2.865866
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:0.614939
+PaintedLayerCallback - Thebes - OMTP:2.013227
+PaintedLayerCallback - Thebes - OMTP:11.679991
+----End of frame!OMTP
+RenderLayerOMTP:16.937286
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:110.010562
+----End of frame!OMTP
+RenderLayerOMTP:126.974313
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.365088
+PaintedLayerCallback - Thebes - OMTP:9.316470
+----End of frame!OMTP
+RenderLayerOMTP:39.844485
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.168769
+PaintedLayerCallback - Thebes - OMTP:0.525441
+----End of frame!OMTP
+RenderLayerOMTP:3.858526
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.500778
+PaintedLayerCallback - Thebes - OMTP:0.636592
+PaintedLayerCallback - Thebes - OMTP:23.644837
+PaintedLayerCallback - Thebes - OMTP:0.850714
+PaintedLayerCallback - Thebes - OMTP:0.134728
+PaintedLayerCallback - Thebes - OMTP:0.128954
+PaintedLayerCallback - Thebes - OMTP:0.228557
+----End of frame!OMTP
+RenderLayerOMTP:51.408513
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.837241
+----End of frame!OMTP
+RenderLayerOMTP:2.217245
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:16.678896
+PaintedLayerCallback - Thebes - OMTP:0.464813
+----End of frame!OMTP
+RenderLayerOMTP:18.583379
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.379164
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.662094
+----End of frame!OMTP
+RenderLayerOMTP:1.843855
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.323225
+----End of frame!OMTP
+RenderLayerOMTP:2.623836
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.537951
+PaintedLayerCallback - Thebes - OMTP:54.258019
+----End of frame!OMTP
+RenderLayerOMTP:74.447553
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.375315
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.391194
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:24.667329
+----End of frame!OMTP
+RenderLayerOMTP:25.930889
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.533140
+PaintedLayerCallback - Thebes - OMTP:13.833721
+----End of frame!OMTP
+RenderLayerOMTP:16.341113
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.383014
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.682058
+PaintedLayerCallback - Thebes - OMTP:0.268976
+PaintedLayerCallback - Thebes - OMTP:1.250087
+PaintedLayerCallback - Thebes - OMTP:0.273787
+PaintedLayerCallback - Thebes - OMTP:0.255503
+PaintedLayerCallback - Thebes - OMTP:4.860809
+PaintedLayerCallback - Thebes - OMTP:0.290628
+----End of frame!OMTP
+RenderLayerOMTP:23.770904
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.551905
+----End of frame!OMTP
+RenderLayerOMTP:1.687473
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.546612
+PaintedLayerCallback - Thebes - OMTP:21.797133
+----End of frame!OMTP
+RenderLayerOMTP:29.365983
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.703956
+----End of frame!OMTP
+RenderLayerOMTP:2.313479
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.142304
+----End of frame!OMTP
+RenderLayerOMTP:2.395279
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:50.525561
+----End of frame!OMTP
+RenderLayerOMTP:51.624560
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.527366
+PaintedLayerCallback - Thebes - OMTP:1.539753
+----End of frame!OMTP
+RenderLayerOMTP:4.473946
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:1.603268
+----End of frame!OMTP
+RenderLayerOMTP:2.816305
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.398892
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.262239
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.399374
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:18.873526
+----End of frame!OMTP
+RenderLayerOMTP:21.048428
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.527847
+PaintedLayerCallback - Thebes - OMTP:2.974130
+PaintedLayerCallback - Thebes - OMTP:14.823975
+PaintedLayerCallback - Thebes - OMTP:1.006614
+----End of frame!OMTP
+RenderLayerOMTP:25.316431
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:6.332235
+PaintedLayerCallback - Thebes - OMTP:15.581341
+----End of frame!OMTP
+RenderLayerOMTP:23.848854
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:4.148192
+PaintedLayerCallback - Thebes - OMTP:0.744374
+----End of frame!OMTP
+RenderLayerOMTP:6.236482
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:2.379881
+PaintedLayerCallback - Thebes - OMTP:2.526639
+PaintedLayerCallback - Thebes - OMTP:1.362200
+PaintedLayerCallback - Thebes - OMTP:1.777453
+----End of frame!OMTP
+RenderLayerOMTP:15.442763
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.510279
+----End of frame!OMTP
+RenderLayerOMTP:4.624072
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:2.294714
+----End of frame!OMTP
+RenderLayerOMTP:3.341746
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:5.742317
+----End of frame!OMTP
+RenderLayerOMTP:7.026087
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:23.200714
+----End of frame!OMTP
+RenderLayerOMTP:24.314148
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.453746
+----End of frame!OMTP
+RenderLayerOMTP:1.644168
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.733308
+PaintedLayerCallback - Thebes - OMTP:1.049919
+----End of frame!OMTP
+RenderLayerOMTP:3.179591
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:19.019321
+----End of frame!OMTP
+RenderLayerOMTP:20.284325
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.653433
+PaintedLayerCallback - Thebes - OMTP:24.960363
+PaintedLayerCallback - Thebes - OMTP:17.514694
+PaintedLayerCallback - Thebes - OMTP:0.217490
+PaintedLayerCallback - Thebes - OMTP:18.157060
+----End of frame!OMTP
+RenderLayerOMTP:66.943662
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.662575
+PaintedLayerCallback - Thebes - OMTP:2.100320
+PaintedLayerCallback - Thebes - OMTP:0.179477
+PaintedLayerCallback - Thebes - OMTP:0.182365
+PaintedLayerCallback - Thebes - OMTP:1.003246
+----End of frame!OMTP
+RenderLayerOMTP:8.385881
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:4.734741
+----End of frame!OMTP
+RenderLayerOMTP:6.034389
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:3.296516
+----End of frame!OMTP
+RenderLayerOMTP:4.779009
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.497769
+PaintedLayerCallback - Thebes - OMTP:0.586550
+PaintedLayerCallback - Thebes - OMTP:0.246842
+PaintedLayerCallback - Thebes - OMTP:0.602428
+----End of frame!OMTP
+RenderLayerOMTP:10.620448
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.414290
+PaintedLayerCallback - Thebes - OMTP:0.622157
+----End of frame!OMTP
+RenderLayerOMTP:3.350407
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:9.093687
+----End of frame!OMTP
+RenderLayerOMTP:12.000452
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:5.370371
+----End of frame!OMTP
+RenderLayerOMTP:6.650291
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.250210
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.263202
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.254540
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.265126
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:9.801011
+----End of frame!OMTP
+RenderLayerOMTP:10.931286
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.359436
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.252616
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.253578
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.905086
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.339708
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:4.060618
+PaintedLayerCallback - Thebes - OMTP:11.508694
+PaintedLayerCallback - Thebes - OMTP:0.289666
+PaintedLayerCallback - Thebes - OMTP:2.180676
+PaintedLayerCallback - Thebes - OMTP:0.201130
+PaintedLayerCallback - Thebes - OMTP:1.116802
+PaintedLayerCallback - Thebes - OMTP:0.224227
+PaintedLayerCallback - Thebes - OMTP:0.376277
+PaintedLayerCallback - Thebes - OMTP:0.315649
+PaintedLayerCallback - Thebes - OMTP:0.281005
+PaintedLayerCallback - Thebes - OMTP:0.207867
+PaintedLayerCallback - Thebes - OMTP:1.070129
+PaintedLayerCallback - Thebes - OMTP:5.270768
+----End of frame!OMTP
+RenderLayerOMTP:42.412024
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:4.293987
+PaintedLayerCallback - Thebes - OMTP:0.166005
+PaintedLayerCallback - Thebes - OMTP:0.151569
+PaintedLayerCallback - Thebes - OMTP:0.187176
+PaintedLayerCallback - Thebes - OMTP:0.188620
+PaintedLayerCallback - Thebes - OMTP:0.179959
+----End of frame!OMTP
+RenderLayerOMTP:10.326452
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.090696
+----End of frame!OMTP
+RenderLayerOMTP:3.862375
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.528809
+PaintedLayerCallback - Thebes - OMTP:4.032710
+----End of frame!OMTP
+RenderLayerOMTP:6.670019
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.727533
+PaintedLayerCallback - Thebes - OMTP:2.004566
+----End of frame!OMTP
+RenderLayerOMTP:5.802464
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.674123
+PaintedLayerCallback - Thebes - OMTP:10.862478
+PaintedLayerCallback - Thebes - OMTP:26.591058
+----End of frame!OMTP
+RenderLayerOMTP:47.754968
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.426319
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.879584
+PaintedLayerCallback - Thebes - OMTP:2.010340
+----End of frame!OMTP
+RenderLayerOMTP:5.178864
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.936721
+----End of frame!OMTP
+RenderLayerOMTP:3.039569
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.231680
+----End of frame!OMTP
+RenderLayerOMTP:3.433169
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.009020
+----End of frame!OMTP
+RenderLayerOMTP:2.542999
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.831467
+PaintedLayerCallback - Thebes - OMTP:18.115679
+PaintedLayerCallback - Thebes - OMTP:72.754787
+----End of frame!OMTP
+RenderLayerOMTP:96.155188
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.717910
+PaintedLayerCallback - Thebes - OMTP:2.274023
+----End of frame!OMTP
+RenderLayerOMTP:6.502089
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:3.526516
+PaintedLayerCallback - Thebes - OMTP:2.982791
+----End of frame!OMTP
+RenderLayerOMTP:7.829646
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.703956
+PaintedLayerCallback - Thebes - OMTP:1.148079
+----End of frame!OMTP
+RenderLayerOMTP:3.145427
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.118727
+----End of frame!OMTP
+RenderLayerOMTP:1.977621
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.863705
+----End of frame!OMTP
+RenderLayerOMTP:2.035361
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.688077
+PaintedLayerCallback - Thebes - OMTP:0.510043
+PaintedLayerCallback - Thebes - OMTP:1.726448
+----End of frame!OMTP
+RenderLayerOMTP:5.693238
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.402261
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.676048
+PaintedLayerCallback - Thebes - OMTP:4.309866
+----End of frame!OMTP
+RenderLayerOMTP:6.872593
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.319253
+----End of frame!OMTP
+RenderLayerOMTP:3.867668
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:22.956759
+PaintedLayerCallback - Thebes - OMTP:3.172854
+PaintedLayerCallback - Thebes - OMTP:0.242992
+PaintedLayerCallback - Thebes - OMTP:0.228557
+PaintedLayerCallback - Thebes - OMTP:0.207386
+PaintedLayerCallback - Thebes - OMTP:0.255022
+PaintedLayerCallback - Thebes - OMTP:0.316612
+PaintedLayerCallback - Thebes - OMTP:2.221575
+----End of frame!OMTP
+RenderLayerOMTP:43.115980
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.184525
+----End of frame!OMTP
+RenderLayerOMTP:3.480324
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.652829
+PaintedLayerCallback - Thebes - OMTP:20.391145
+----End of frame!OMTP
+RenderLayerOMTP:23.803143
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:10.252351
+----End of frame!OMTP
+RenderLayerOMTP:11.126161
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.725967
+----End of frame!OMTP
+RenderLayerOMTP:2.603627
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.142663
+----End of frame!OMTP
+RenderLayerOMTP:3.198356
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.451576
+----End of frame!OMTP
+RenderLayerOMTP:3.610721
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.985801
+PaintedLayerCallback - Thebes - OMTP:3.456746
+PaintedLayerCallback - Thebes - OMTP:3.930220
+PaintedLayerCallback - Thebes - OMTP:68.820236
+----End of frame!OMTP
+RenderLayerOMTP:103.571987
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:5.764933
+PaintedLayerCallback - Thebes - OMTP:25.115782
+PaintedLayerCallback - Thebes - OMTP:2.274986
+PaintedLayerCallback - Thebes - OMTP:5.049428
+PaintedLayerCallback - Thebes - OMTP:0.333934
+PaintedLayerCallback - Thebes - OMTP:0.272825
+PaintedLayerCallback - Thebes - OMTP:0.231925
+PaintedLayerCallback - Thebes - OMTP:0.175628
+PaintedLayerCallback - Thebes - OMTP:0.183327
+PaintedLayerCallback - Thebes - OMTP:2.628648
+----End of frame!OMTP
+RenderLayerOMTP:59.606256
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.877537
+PaintedLayerCallback - Thebes - OMTP:29.603682
+PaintedLayerCallback - Thebes - OMTP:17.929465
+PaintedLayerCallback - Thebes - OMTP:3.691077
+PaintedLayerCallback - Thebes - OMTP:0.256946
+PaintedLayerCallback - Thebes - OMTP:0.175147
+PaintedLayerCallback - Thebes - OMTP:0.222783
+PaintedLayerCallback - Thebes - OMTP:0.172260
+PaintedLayerCallback - Thebes - OMTP:0.221821
+PaintedLayerCallback - Thebes - OMTP:1.719712
+----End of frame!OMTP
+RenderLayerOMTP:67.995025
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.170090
+PaintedLayerCallback - Thebes - OMTP:0.424876
+PaintedLayerCallback - Thebes - OMTP:0.966676
+----End of frame!OMTP
+RenderLayerOMTP:6.566085
+FlushAsyncPaintOMTP:0.002887
+----End of frame!OMTP
+RenderLayerOMTP:2.874046
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:44.188995
+PaintedLayerCallback - Thebes - OMTP:2.594965
+PaintedLayerCallback - Thebes - OMTP:2.350530
+----End of frame!OMTP
+RenderLayerOMTP:53.973646
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.490315
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.522073
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:2.217726
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.551905
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.682784
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.634903
+----End of frame!OMTP
+RenderLayerOMTP:4.898821
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.485985
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:73.870146
+PaintedLayerCallback - Thebes - OMTP:5.700455
+PaintedLayerCallback - Thebes - OMTP:0.253097
+PaintedLayerCallback - Thebes - OMTP:0.294478
+PaintedLayerCallback - Thebes - OMTP:0.256946
+PaintedLayerCallback - Thebes - OMTP:0.240586
+PaintedLayerCallback - Thebes - OMTP:0.196319
+PaintedLayerCallback - Thebes - OMTP:0.180440
+PaintedLayerCallback - Thebes - OMTP:0.189582
+PaintedLayerCallback - Thebes - OMTP:0.167929
+PaintedLayerCallback - Thebes - OMTP:0.203536
+PaintedLayerCallback - Thebes - OMTP:0.176590
+PaintedLayerCallback - Thebes - OMTP:2.304818
+----End of frame!OMTP
+RenderLayerOMTP:95.193804
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:65.852362
+PaintedLayerCallback - Thebes - OMTP:4.300242
+PaintedLayerCallback - Thebes - OMTP:0.244436
+PaintedLayerCallback - Thebes - OMTP:0.444123
+PaintedLayerCallback - Thebes - OMTP:0.239143
+PaintedLayerCallback - Thebes - OMTP:0.327198
+PaintedLayerCallback - Thebes - OMTP:0.281005
+PaintedLayerCallback - Thebes - OMTP:0.247804
+PaintedLayerCallback - Thebes - OMTP:0.239624
+PaintedLayerCallback - Thebes - OMTP:0.260796
+PaintedLayerCallback - Thebes - OMTP:0.213641
+PaintedLayerCallback - Thebes - OMTP:0.233369
+PaintedLayerCallback - Thebes - OMTP:2.241303
+----End of frame!OMTP
+RenderLayerOMTP:90.820424
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:14.586276
+----End of frame!OMTP
+RenderLayerOMTP:16.107744
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:6.889434
+PaintedLayerCallback - Thebes - OMTP:1.229878
+PaintedLayerCallback - Thebes - OMTP:2.213395
+PaintedLayerCallback - Thebes - OMTP:57.600246
+PaintedLayerCallback - Thebes - OMTP:4.551415
+PaintedLayerCallback - Thebes - OMTP:2.378438
+----End of frame!OMTP
+RenderLayerOMTP:109.694912
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.364002
+PaintedLayerCallback - Thebes - OMTP:1.226510
+----End of frame!OMTP
+RenderLayerOMTP:5.699974
+FlushAsyncPaintOMTP:0.002887
+----End of frame!OMTP
+RenderLayerOMTP:0.844940
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:3.469257
+----End of frame!OMTP
+RenderLayerOMTP:5.712966
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.389023
+PaintedLayerCallback - Thebes - OMTP:0.953204
+----End of frame!OMTP
+RenderLayerOMTP:5.147588
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:73.616568
+PaintedLayerCallback - Thebes - OMTP:4.377230
+PaintedLayerCallback - Thebes - OMTP:2.903878
+PaintedLayerCallback - Thebes - OMTP:1.546971
+----End of frame!OMTP
+RenderLayerOMTP:96.811027
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:3.597730
+PaintedLayerCallback - Thebes - OMTP:5.878008
+PaintedLayerCallback - Thebes - OMTP:3.294591
+PaintedLayerCallback - Thebes - OMTP:96.817282
+----End of frame!OMTP
+RenderLayerOMTP:140.575627
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:10.836014
+----End of frame!OMTP
+RenderLayerOMTP:12.823258
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:1.036928
+PaintedLayerCallback - Thebes - OMTP:3.059297
+PaintedLayerCallback - Thebes - OMTP:51.671715
+PaintedLayerCallback - Thebes - OMTP:6.363512
+PaintedLayerCallback - Thebes - OMTP:0.276193
+PaintedLayerCallback - Thebes - OMTP:0.310357
+PaintedLayerCallback - Thebes - OMTP:0.241068
+PaintedLayerCallback - Thebes - OMTP:0.200649
+PaintedLayerCallback - Thebes - OMTP:0.230963
+PaintedLayerCallback - Thebes - OMTP:0.234812
+PaintedLayerCallback - Thebes - OMTP:0.299290
+PaintedLayerCallback - Thebes - OMTP:0.546131
+PaintedLayerCallback - Thebes - OMTP:0.242511
+PaintedLayerCallback - Thebes - OMTP:0.265607
+PaintedLayerCallback - Thebes - OMTP:2.478040
+----End of frame!OMTP
+RenderLayerOMTP:125.583242
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:6.578596
+PaintedLayerCallback - Thebes - OMTP:10.120029
+----End of frame!OMTP
+RenderLayerOMTP:20.298760
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.801389
+----End of frame!OMTP
+RenderLayerOMTP:4.834825
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:2.292789
+PaintedLayerCallback - Thebes - OMTP:2.109462
+----End of frame!OMTP
+RenderLayerOMTP:7.161778
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:2.366890
+----End of frame!OMTP
+RenderLayerOMTP:4.394071
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:2.558878
+----End of frame!OMTP
+RenderLayerOMTP:3.978819
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:4.090451
+PaintedLayerCallback - Thebes - OMTP:3.301327
+----End of frame!OMTP
+RenderLayerOMTP:12.488362
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:61.886535
+PaintedLayerCallback - Thebes - OMTP:3.885471
+PaintedLayerCallback - Thebes - OMTP:0.212197
+PaintedLayerCallback - Thebes - OMTP:0.354624
+PaintedLayerCallback - Thebes - OMTP:0.222783
+PaintedLayerCallback - Thebes - OMTP:0.247804
+PaintedLayerCallback - Thebes - OMTP:0.224708
+PaintedLayerCallback - Thebes - OMTP:0.277637
+PaintedLayerCallback - Thebes - OMTP:0.201130
+PaintedLayerCallback - Thebes - OMTP:0.303139
+PaintedLayerCallback - Thebes - OMTP:0.202093
+PaintedLayerCallback - Thebes - OMTP:0.636592
+PaintedLayerCallback - Thebes - OMTP:2.197035
+PaintedLayerCallback - Thebes - OMTP:1.723080
+----End of frame!OMTP
+RenderLayerOMTP:88.659476
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.753036
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:1.331405
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.789124
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.797785
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.355945
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.815107
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.670274
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:1.098999
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.908454
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.744856
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.693851
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:1.529167
+PaintedLayerCallback - Thebes - OMTP:1.556113
+PaintedLayerCallback - Thebes - OMTP:1.430527
+PaintedLayerCallback - Thebes - OMTP:8.545631
+PaintedLayerCallback - Thebes - OMTP:0.852638
+PaintedLayerCallback - Thebes - OMTP:3.974488
+PaintedLayerCallback - Thebes - OMTP:0.205942
+PaintedLayerCallback - Thebes - OMTP:0.903643
+PaintedLayerCallback - Thebes - OMTP:0.192469
+PaintedLayerCallback - Thebes - OMTP:8.777075
+PaintedLayerCallback - Thebes - OMTP:1.149041
+PaintedLayerCallback - Thebes - OMTP:4.522063
+PaintedLayerCallback - Thebes - OMTP:3.060741
+----End of frame!OMTP
+RenderLayerOMTP:65.308155
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.649102
+PaintedLayerCallback - Thebes - OMTP:0.624562
+PaintedLayerCallback - Thebes - OMTP:0.153494
+----End of frame!OMTP
+RenderLayerOMTP:5.943929
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.258144
+PaintedLayerCallback - Thebes - OMTP:0.201611
+PaintedLayerCallback - Thebes - OMTP:0.996990
+PaintedLayerCallback - Thebes - OMTP:0.192469
+----End of frame!OMTP
+RenderLayerOMTP:8.662075
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.327198
+PaintedLayerCallback - Thebes - OMTP:0.612052
+PaintedLayerCallback - Thebes - OMTP:0.191507
+----End of frame!OMTP
+RenderLayerOMTP:4.468172
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.667868
+PaintedLayerCallback - Thebes - OMTP:0.286298
+PaintedLayerCallback - Thebes - OMTP:0.980149
+PaintedLayerCallback - Thebes - OMTP:0.194394
+----End of frame!OMTP
+RenderLayerOMTP:6.528554
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.724646
+PaintedLayerCallback - Thebes - OMTP:0.629374
+PaintedLayerCallback - Thebes - OMTP:0.141465
+----End of frame!OMTP
+RenderLayerOMTP:4.578841
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.342114
+PaintedLayerCallback - Thebes - OMTP:1.086007
+PaintedLayerCallback - Thebes - OMTP:0.140502
+PaintedLayerCallback - Thebes - OMTP:0.179959
+----End of frame!OMTP
+RenderLayerOMTP:8.491258
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.521110
+PaintedLayerCallback - Thebes - OMTP:0.590399
+PaintedLayerCallback - Thebes - OMTP:0.140984
+----End of frame!OMTP
+RenderLayerOMTP:3.812333
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.484296
+PaintedLayerCallback - Thebes - OMTP:0.567303
+PaintedLayerCallback - Thebes - OMTP:0.139059
+----End of frame!OMTP
+RenderLayerOMTP:6.726316
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.783831
+PaintedLayerCallback - Thebes - OMTP:0.879103
+PaintedLayerCallback - Thebes - OMTP:0.185733
+PaintedLayerCallback - Thebes - OMTP:9.498834
+PaintedLayerCallback - Thebes - OMTP:1.727892
+----End of frame!OMTP
+RenderLayerOMTP:23.055881
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.792369
+PaintedLayerCallback - Thebes - OMTP:0.118369
+----End of frame!OMTP
+RenderLayerOMTP:3.671349
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.883311
+PaintedLayerCallback - Thebes - OMTP:0.240586
+----End of frame!OMTP
+RenderLayerOMTP:4.306498
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:5.137483
+----End of frame!OMTP
+RenderLayerOMTP:6.465520
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.469502
+----End of frame!OMTP
+RenderLayerOMTP:3.413441
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.593645
+----End of frame!OMTP
+RenderLayerOMTP:3.289779
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.456029
+----End of frame!OMTP
+RenderLayerOMTP:3.065553
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.308432
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.475399
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.472031
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.428725
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.341991
+----End of frame!OMTP
+RenderLayerOMTP:2.540593
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.319499
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:9.548876
+PaintedLayerCallback - Thebes - OMTP:2.241785
+PaintedLayerCallback - Thebes - OMTP:1.517619
+----End of frame!OMTP
+RenderLayerOMTP:16.721240
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.498976
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.703475
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.539876
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.556717
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.555274
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.696257
+----End of frame!OMTP
+RenderLayerOMTP:2.143625
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.057618
+----End of frame!OMTP
+RenderLayerOMTP:2.196073
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.468898
+----End of frame!OMTP
+RenderLayerOMTP:4.444594
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.878141
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.594126
+----End of frame!OMTP
+RenderLayerOMTP:3.491872
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.474436
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.256701
+PaintedLayerCallback - Thebes - OMTP:0.715504
+PaintedLayerCallback - Thebes - OMTP:82.352262
+PaintedLayerCallback - Thebes - OMTP:15.387910
+----End of frame!OMTP
+RenderLayerOMTP:131.504556
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.373390
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:151.291829
+PaintedLayerCallback - Thebes - OMTP:0.392637
+----End of frame!OMTP
+RenderLayerOMTP:174.111454
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.536508
+PaintedLayerCallback - Thebes - OMTP:0.292072
+----End of frame!OMTP
+RenderLayerOMTP:2.468417
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.225189
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.694814
+PaintedLayerCallback - Thebes - OMTP:38.051635
+----End of frame!OMTP
+RenderLayerOMTP:41.071957
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.294959
+----End of frame!OMTP
+RenderLayerOMTP:1.946344
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.657763
+PaintedLayerCallback - Thebes - OMTP:5.207734
+PaintedLayerCallback - Thebes - OMTP:2.125822
+----End of frame!OMTP
+RenderLayerOMTP:10.237435
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.350294
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.499335
+PaintedLayerCallback - Thebes - OMTP:0.432574
+PaintedLayerCallback - Thebes - OMTP:20.571104
+PaintedLayerCallback - Thebes - OMTP:1.053287
+PaintedLayerCallback - Thebes - OMTP:0.138097
+PaintedLayerCallback - Thebes - OMTP:0.231444
+----End of frame!OMTP
+RenderLayerOMTP:27.767045
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:0.578370
+----End of frame!OMTP
+RenderLayerOMTP:1.423791
+FlushAsyncPaintOMTP:0.000962
+PaintedLayerCallback - Thebes - OMTP:1.184167
+----End of frame!OMTP
+RenderLayerOMTP:2.023813
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.354143
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.245879
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.237218
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.236737
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:11.542376
+----End of frame!OMTP
+RenderLayerOMTP:12.717881
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.507637
+----End of frame!OMTP
+RenderLayerOMTP:1.453142
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.519667
+PaintedLayerCallback - Thebes - OMTP:10.264862
+PaintedLayerCallback - Thebes - OMTP:10.983253
+PaintedLayerCallback - Thebes - OMTP:3.422102
+----End of frame!OMTP
+RenderLayerOMTP:33.009424
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.376758
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.507637
+PaintedLayerCallback - Thebes - OMTP:7.628996
+PaintedLayerCallback - Thebes - OMTP:1.203895
+----End of frame!OMTP
+RenderLayerOMTP:11.602522
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.269938
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:0.674604
+PaintedLayerCallback - Thebes - OMTP:18.122896
+----End of frame!OMTP
+RenderLayerOMTP:21.068637
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.268976
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.665943
+PaintedLayerCallback - Thebes - OMTP:10.220594
+----End of frame!OMTP
+RenderLayerOMTP:12.770329
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.347888
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.422951
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.225670
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.335378
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.358955
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.360399
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.363286
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.347407
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.222302
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.632261
+----End of frame!OMTP
+RenderLayerOMTP:1.913143
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.220377
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.331047
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.709249
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.221821
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.248285
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.224227
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.229397
+----End of frame!OMTP
+RenderLayerOMTP:2.574275
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.353181
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.396486
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.499939
+----End of frame!OMTP
+RenderLayerOMTP:1.332368
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.243473
+FlushAsyncPaintOMTP:0.000962
+----End of frame!OMTP
+RenderLayerOMTP:0.246361
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.344520
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.242992
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.246842
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.364729
+FlushAsyncPaintOMTP:0.003368
+----End of frame!OMTP
+RenderLayerOMTP:0.248285
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.355106
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.033918
+----End of frame!OMTP
+RenderLayerOMTP:4.651017
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:99.859738
+PaintedLayerCallback - Thebes - OMTP:4.242502
+PaintedLayerCallback - Thebes - OMTP:4.413318
+PaintedLayerCallback - Thebes - OMTP:1.163476
+----End of frame!OMTP
+RenderLayerOMTP:115.792335
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:6.306252
+PaintedLayerCallback - Thebes - OMTP:38.322054
+----End of frame!OMTP
+RenderLayerOMTP:46.437997
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.503184
+PaintedLayerCallback - Thebes - OMTP:1.657641
+----End of frame!OMTP
+RenderLayerOMTP:4.831457
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.626968
+----End of frame!OMTP
+RenderLayerOMTP:1.534942
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.394081
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:9.710069
+----End of frame!OMTP
+RenderLayerOMTP:11.217103
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:8.015378
+PaintedLayerCallback - Thebes - OMTP:12.216499
+PaintedLayerCallback - Thebes - OMTP:59.034142
+----End of frame!OMTP
+RenderLayerOMTP:86.916187
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:3.252729
+----End of frame!OMTP
+RenderLayerOMTP:4.714532
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.466738
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.314083
+----End of frame!OMTP
+RenderLayerOMTP:4.004321
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:0.768433
+PaintedLayerCallback - Thebes - OMTP:15.568349
+PaintedLayerCallback - Thebes - OMTP:1.545046
+PaintedLayerCallback - Thebes - OMTP:0.513893
+PaintedLayerCallback - Thebes - OMTP:0.206423
+----End of frame!OMTP
+RenderLayerOMTP:23.886385
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:4.635139
+----End of frame!OMTP
+RenderLayerOMTP:6.576190
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.561765
+----End of frame!OMTP
+RenderLayerOMTP:3.662688
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:8.996971
+PaintedLayerCallback - Thebes - OMTP:1.385778
+PaintedLayerCallback - Thebes - OMTP:5.078780
+PaintedLayerCallback - Thebes - OMTP:0.725128
+PaintedLayerCallback - Thebes - OMTP:0.789605
+PaintedLayerCallback - Thebes - OMTP:1.681699
+----End of frame!OMTP
+RenderLayerOMTP:31.760780
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:4.553820
+PaintedLayerCallback - Thebes - OMTP:1.533017
+PaintedLayerCallback - Thebes - OMTP:17.641723
+PaintedLayerCallback - Thebes - OMTP:1.100442
+----End of frame!OMTP
+RenderLayerOMTP:32.938210
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.870319
+PaintedLayerCallback - Thebes - OMTP:41.096497
+PaintedLayerCallback - Thebes - OMTP:1.159627
+----End of frame!OMTP
+RenderLayerOMTP:46.040067
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.904841
+PaintedLayerCallback - Thebes - OMTP:2.116680
+PaintedLayerCallback - Thebes - OMTP:15.457680
+PaintedLayerCallback - Thebes - OMTP:1.114396
+----End of frame!OMTP
+RenderLayerOMTP:29.379937
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:5.210140
+PaintedLayerCallback - Thebes - OMTP:1.427640
+----End of frame!OMTP
+RenderLayerOMTP:8.779481
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:3.801747
+PaintedLayerCallback - Thebes - OMTP:0.501382
+PaintedLayerCallback - Thebes - OMTP:1.076865
+----End of frame!OMTP
+RenderLayerOMTP:8.222764
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:4.386853
+PaintedLayerCallback - Thebes - OMTP:8.896887
+----End of frame!OMTP
+RenderLayerOMTP:14.845147
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:3.597249
+PaintedLayerCallback - Thebes - OMTP:9.274608
+PaintedLayerCallback - Thebes - OMTP:1.763980
+PaintedLayerCallback - Thebes - OMTP:4.778047
+----End of frame!OMTP
+RenderLayerOMTP:24.459462
+FlushAsyncPaintOMTP:0.002406
+----End of frame!OMTP
+RenderLayerOMTP:0.547575
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:5.941042
+PaintedLayerCallback - Thebes - OMTP:1.330924
+PaintedLayerCallback - Thebes - OMTP:1.530611
+----End of frame!OMTP
+RenderLayerOMTP:16.760696
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.160589
+----End of frame!OMTP
+RenderLayerOMTP:2.053165
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.559840
+PaintedLayerCallback - Thebes - OMTP:6.875961
+PaintedLayerCallback - Thebes - OMTP:3.061703
+PaintedLayerCallback - Thebes - OMTP:33.762459
+PaintedLayerCallback - Thebes - OMTP:1.050400
+----End of frame!OMTP
+RenderLayerOMTP:77.521286
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.498495
+PaintedLayerCallback - Thebes - OMTP:1.163476
+PaintedLayerCallback - Thebes - OMTP:26.237877
+PaintedLayerCallback - Thebes - OMTP:1.972809
+PaintedLayerCallback - Thebes - OMTP:12.864639
+PaintedLayerCallback - Thebes - OMTP:1.588352
+----End of frame!OMTP
+RenderLayerOMTP:75.762118
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.206300
+PaintedLayerCallback - Thebes - OMTP:20.037483
+PaintedLayerCallback - Thebes - OMTP:2.044985
+PaintedLayerCallback - Thebes - OMTP:11.499070
+PaintedLayerCallback - Thebes - OMTP:1.674963
+----End of frame!OMTP
+RenderLayerOMTP:73.553053
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:2.260550
+PaintedLayerCallback - Thebes - OMTP:1.901114
+PaintedLayerCallback - Thebes - OMTP:1.333811
+----End of frame!OMTP
+RenderLayerOMTP:9.220716
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.746176
+PaintedLayerCallback - Thebes - OMTP:1.972328
+PaintedLayerCallback - Thebes - OMTP:42.229659
+PaintedLayerCallback - Thebes - OMTP:2.424630
+----End of frame!OMTP
+RenderLayerOMTP:77.432750
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.430650
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.884396
+PaintedLayerCallback - Thebes - OMTP:32.214045
+PaintedLayerCallback - Thebes - OMTP:1.507034
+PaintedLayerCallback - Thebes - OMTP:1.567180
+PaintedLayerCallback - Thebes - OMTP:21.107131
+PaintedLayerCallback - Thebes - OMTP:1.700465
+----End of frame!OMTP
+RenderLayerOMTP:71.399804
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.617345
+PaintedLayerCallback - Thebes - OMTP:2.825928
+PaintedLayerCallback - Thebes - OMTP:2.047391
+PaintedLayerCallback - Thebes - OMTP:1.469983
+----End of frame!OMTP
+RenderLayerOMTP:12.691898
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:2.042579
+PaintedLayerCallback - Thebes - OMTP:2.682539
+PaintedLayerCallback - Thebes - OMTP:1.058099
+PaintedLayerCallback - Thebes - OMTP:0.680378
+PaintedLayerCallback - Thebes - OMTP:0.659207
+PaintedLayerCallback - Thebes - OMTP:1.102367
+PaintedLayerCallback - Thebes - OMTP:1.421866
+----End of frame!OMTP
+RenderLayerOMTP:18.447207
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:1.832306
+PaintedLayerCallback - Thebes - OMTP:1.242870
+----End of frame!OMTP
+RenderLayerOMTP:6.499684
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:3.460114
+PaintedLayerCallback - Thebes - OMTP:2.119567
+PaintedLayerCallback - Thebes - OMTP:1.522431
+PaintedLayerCallback - Thebes - OMTP:2.230718
+PaintedLayerCallback - Thebes - OMTP:1.027304
+----End of frame!OMTP
+RenderLayerOMTP:16.140945
+FlushAsyncPaintOMTP:0.002406
+PaintedLayerCallback - Thebes - OMTP:1.239983
+----End of frame!OMTP
+RenderLayerOMTP:2.852393
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.084686
+PaintedLayerCallback - Thebes - OMTP:1.858290
+PaintedLayerCallback - Thebes - OMTP:0.507637
+PaintedLayerCallback - Thebes - OMTP:0.260796
+PaintedLayerCallback - Thebes - OMTP:0.284854
+PaintedLayerCallback - Thebes - OMTP:0.549499
+PaintedLayerCallback - Thebes - OMTP:0.205461
+----End of frame!OMTP
+RenderLayerOMTP:10.915889
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:7.005396
+PaintedLayerCallback - Thebes - OMTP:28.419034
+PaintedLayerCallback - Thebes - OMTP:0.205942
+PaintedLayerCallback - Thebes - OMTP:0.338746
+PaintedLayerCallback - Thebes - OMTP:0.890651
+----End of frame!OMTP
+RenderLayerOMTP:42.532317
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.117765
+----End of frame!OMTP
+RenderLayerOMTP:3.583295
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.178996
+PaintedLayerCallback - Thebes - OMTP:0.144833
+PaintedLayerCallback - Thebes - OMTP:0.137134
+PaintedLayerCallback - Thebes - OMTP:0.134247
+PaintedLayerCallback - Thebes - OMTP:0.623119
+PaintedLayerCallback - Thebes - OMTP:0.155419
+----End of frame!OMTP
+RenderLayerOMTP:6.846128
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.556594
+----End of frame!OMTP
+RenderLayerOMTP:2.921201
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:1.378560
+PaintedLayerCallback - Thebes - OMTP:1.324188
+PaintedLayerCallback - Thebes - OMTP:1.894859
+PaintedLayerCallback - Thebes - OMTP:0.177072
+PaintedLayerCallback - Thebes - OMTP:0.158787
+PaintedLayerCallback - Thebes - OMTP:0.165523
+PaintedLayerCallback - Thebes - OMTP:0.596654
+PaintedLayerCallback - Thebes - OMTP:0.169373
+PaintedLayerCallback - Thebes - OMTP:1.737034
+----End of frame!OMTP
+RenderLayerOMTP:16.241991
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.763621
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.706843
+----End of frame!OMTP
+RenderLayerOMTP:2.450614
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.302177
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.666424
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.527847
+FlushAsyncPaintOMTP:0.001925
+----End of frame!OMTP
+RenderLayerOMTP:0.477805
+FlushAsyncPaintOMTP:0.001444
+----End of frame!OMTP
+RenderLayerOMTP:0.828580
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:3.258984
+----End of frame!OMTP
+RenderLayerOMTP:5.104282
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.506194
+PaintedLayerCallback - Thebes - OMTP:5.491145
+PaintedLayerCallback - Thebes - OMTP:1.259229
+PaintedLayerCallback - Thebes - OMTP:2.995783
+PaintedLayerCallback - Thebes - OMTP:63.408003
+----End of frame!OMTP
+RenderLayerOMTP:105.070841
+FlushAsyncPaintOMTP:0.001925
+PaintedLayerCallback - Thebes - OMTP:0.150607
+PaintedLayerCallback - Thebes - OMTP:1.106698
+PaintedLayerCallback - Thebes - OMTP:2.011303
+PaintedLayerCallback - Thebes - OMTP:15.117490
+----End of frame!OMTP
+RenderLayerOMTP:28.260247
+FlushAsyncPaintOMTP:0.001444
+PaintedLayerCallback - Thebes - OMTP:0.487428
+----End of frame!OMTP
+RenderLayerOMTP:2.005048
+FlushAsyncPaintOMTP:0.003849
+PaintedLayerCallback - Thebes - OMTP:4.019718
+----End of frame!OMTP
+RenderLayerOMTP:8.069751
