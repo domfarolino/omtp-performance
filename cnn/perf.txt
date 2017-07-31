@@ -1,0 +1,44 @@
+Statistics for Stock run
+AVG FlushPaint Time: 0.001409835995740149
+AVG RenderLayer Time: 8.51494183599574
+AVG PaintCallback Time: 7.557485015873016
+STD-DEV of FlushPaint Times: 0.0012216221540884242
+STD-DEV of RenderLayer Times: 21.965160752694935
+STD-DEV of PaintCallback Times: 17.93187139881543
+Variance of FlushPaint Times: 1.4923606873596416e-06
+Variance of RenderLayer Times: 482.4682868917299
+Variance of PaintCallback Times: 321.55201186365485
+----------------------------------
+Statistics for Direct2D Disabled run
+AVG FlushPaint Time: 0.001761707142857143
+AVG RenderLayer Time: 13.4072335
+AVG PaintCallback Time: 16.353608914634147
+STD-DEV of FlushPaint Times: 0.0009204064942427001
+STD-DEV of RenderLayer Times: 27.74568482882094
+STD-DEV of PaintCallback Times: 26.913588012461318
+Variance of FlushPaint Times: 8.471481146441374e-07
+Variance of RenderLayer Times: 769.8230266202646
+Variance of PaintCallback Times: 724.3412197045016
+----------------------------------
+Statistics for Direct2D Disabled OMTP Enabled Force Sync False run
+AVG FlushPaint Time: 0.3451815
+AVG RenderLayer Time: 12.438655123505976
+AVG PaintCallback Time: 2.5036789968152866
+STD-DEV of FlushPaint Times: 4.132812547047075
+STD-DEV of RenderLayer Times: 16.8093660460766
+STD-DEV of PaintCallback Times: 7.219174260659581
+Variance of FlushPaint Times: 17.080139549029727
+Variance of RenderLayer Times: 282.55478687099287
+Variance of PaintCallback Times: 52.1164770057698
+----------------------------------
+Statistics for Direct2D Enabled OMTP Enabled Force Sync False run
+AVG FlushPaint Time: 0.16653170382882881
+AVG RenderLayer Time: 8.19955263400901
+AVG PaintCallback Time: 2.100897996987952
+STD-DEV of FlushPaint Times: 2.3670897756427878
+STD-DEV of RenderLayer Times: 16.368141268589255
+STD-DEV of PaintCallback Times: 2.756063328826954
+Variance of FlushPaint Times: 5.603114005952623
+Variance of RenderLayer Times: 267.9160485884947
+Variance of PaintCallback Times: 7.595885072504711
+----------------------------------

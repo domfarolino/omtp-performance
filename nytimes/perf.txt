@@ -1,0 +1,44 @@
+Statistics for Stock run
+AVG FlushPaint Time: 0.0018362387640449439
+AVG RenderLayer Time: 6.154848001872659
+AVG PaintCallback Time: 5.674897569131833
+STD-DEV of FlushPaint Times: 0.008396000892674957
+STD-DEV of RenderLayer Times: 15.478948013561919
+STD-DEV of PaintCallback Times: 16.9564613615555
+Variance of FlushPaint Times: 7.049283098979868e-05
+Variance of RenderLayer Times: 239.5978316065525
+Variance of PaintCallback Times: 287.5215819059247
+----------------------------------
+Statistics for Direct2D Disabled run
+AVG FlushPaint Time: 0.0012127741312741313
+AVG RenderLayer Time: 2.772203084942085
+AVG PaintCallback Time: 3.5500022607184243
+STD-DEV of FlushPaint Times: 0.002602633548067196
+STD-DEV of RenderLayer Times: 7.604445101280055
+STD-DEV of PaintCallback Times: 8.184850328061325
+Variance of FlushPaint Times: 6.7737013855248406e-06
+Variance of RenderLayer Times: 57.827585298382225
+Variance of PaintCallback Times: 66.99177489276556
+----------------------------------
+Statistics for Direct2D Disabled OMTP Enabled Force Sync False run
+AVG FlushPaint Time: 0.03875121417505809
+AVG RenderLayer Time: 4.9306812680092955
+AVG PaintCallback Time: 0.9078709826464209
+STD-DEV of FlushPaint Times: 0.6796551697763761
+STD-DEV of RenderLayer Times: 6.320651950301415
+STD-DEV of PaintCallback Times: 3.384159889808171
+Variance of FlushPaint Times: 0.4619311498037546
+Variance of RenderLayer Times: 39.95064107684908
+Variance of PaintCallback Times: 11.452538159786453
+----------------------------------
+Statistics for Direct2D Enabled OMTP Enabled Force Sync False run
+AVG FlushPaint Time: 0.059830886075949365
+AVG RenderLayer Time: 4.74555948185654
+AVG PaintCallback Time: 4.696592266081871
+STD-DEV of FlushPaint Times: 1.1495036722904972
+STD-DEV of RenderLayer Times: 17.172596322085248
+STD-DEV of PaintCallback Times: 10.762330285944001
+Variance of FlushPaint Times: 1.321358692609339
+Variance of RenderLayer Times: 294.89806444129573
+Variance of PaintCallback Times: 115.8277531837475
+----------------------------------

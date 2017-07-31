@@ -1,0 +1,44 @@
+Statistics for Stock run
+AVG FlushPaint Time: 0.0011637746403835908
+AVG RenderLayer Time: 4.041646812999467
+AVG PaintCallback Time: 3.932991264035088
+STD-DEV of FlushPaint Times: 0.0009082765286469067
+STD-DEV of RenderLayer Times: 6.523982554072611
+STD-DEV of PaintCallback Times: 6.5739004114095705
+Variance of FlushPaint Times: 8.249662524908752e-07
+Variance of RenderLayer Times: 42.56234836584379
+Variance of PaintCallback Times: 43.216166619130924
+----------------------------------
+Statistics for Direct2D Disabled run
+AVG FlushPaint Time: 0.0009502680514342235
+AVG RenderLayer Time: 7.411012733926805
+AVG PaintCallback Time: 8.841888033986928
+STD-DEV of FlushPaint Times: 0.00030161229844344534
+STD-DEV of RenderLayer Times: 10.03629376835835
+STD-DEV of PaintCallback Times: 10.536685108582567
+Variance of FlushPaint Times: 9.096997857233794e-08
+Variance of RenderLayer Times: 100.72719260478866
+Variance of PaintCallback Times: 111.02173307742561
+----------------------------------
+Statistics for Direct2D Disabled OMTP Enabled Force Sync False run
+AVG FlushPaint Time: 0.7229375503211991
+AVG RenderLayer Time: 6.333750061384725
+AVG PaintCallback Time: 1.355655233256351
+STD-DEV of FlushPaint Times: 2.788000891449287
+STD-DEV of RenderLayer Times: 5.830154243755599
+STD-DEV of PaintCallback Times: 2.1589245599372826
+Variance of FlushPaint Times: 7.7729489707220205
+Variance of RenderLayer Times: 33.99069850598142
+Variance of PaintCallback Times: 4.660955255500389
+----------------------------------
+Statistics for Direct2D Enabled OMTP Enabled Force Sync False run
+AVG FlushPaint Time: 0.00396754071825999
+AVG RenderLayer Time: 4.161961161861406
+AVG PaintCallback Time: 2.7648110569037656
+STD-DEV of FlushPaint Times: 0.05298442045389863
+STD-DEV of RenderLayer Times: 7.138200412537067
+STD-DEV of PaintCallback Times: 6.27794076604179
+Variance of FlushPaint Times: 0.002807348810835512
+Variance of RenderLayer Times: 50.95390512954435
+Variance of PaintCallback Times: 39.41254026192938
+----------------------------------
